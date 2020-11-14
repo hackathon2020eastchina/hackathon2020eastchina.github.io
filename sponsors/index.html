@@ -1,0 +1,287 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>sponsors | Hackathon2020@华东</title><meta name="description" content="1.为什么选择赞助我们⚫高质量的参与者  ​       本届 Hackathon 是华东地区规模较大的 Hackathon，参与者均为华东地区 4 所“985 工程”高校、3 所“211 工程”高校，线上参与者中包涵许多大公司的实习生，ACM 竞赛和各种创新大赛获奖者，以及尚未崭露头角、潜力巨大的未来之星。贵公司可以在此大赛上发现新颖的项目新思路并挖掘优秀的人才为己所用。  ⚫ 扩大影响力  ​"><meta name="keywords" content="Tech, Hackathon"><meta name="author" content="NJUMSC"><meta name="copyright" content="NJUMSC"><meta name="format-detection" content="telephone=no"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="https://hackathon2020eastchina.github.io/sponsors/"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//fonts.googleapis.com" crossorigin="crossorigin"/><link rel="preconnect" href="//zz.bdstatic.com"/><meta property="og:type" content="website"><meta property="og:title" content="sponsors"><meta property="og:url" content="https://hackathon2020eastchina.github.io/sponsors/"><meta property="og:site_name" content="Hackathon2020@华东"><meta property="og:description" content="1.为什么选择赞助我们⚫高质量的参与者  ​       本届 Hackathon 是华东地区规模较大的 Hackathon，参与者均为华东地区 4 所“985 工程”高校、3 所“211 工程”高校，线上参与者中包涵许多大公司的实习生，ACM 竞赛和各种创新大赛获奖者，以及尚未崭露头角、潜力巨大的未来之星。贵公司可以在此大赛上发现新颖的项目新思路并挖掘优秀的人才为己所用。  ⚫ 扩大影响力  ​"><meta property="og:image" content="https://oss.ydjsir.com.cn/header.png"><meta property="article:published_time" content="2020-10-31T16:10:32.000Z"><meta property="article:modified_time" content="2020-10-31T16:16:10.578Z"><meta name="twitter:card" content="summary"><script>var activateDarkMode = function () {
+  document.documentElement.setAttribute('data-theme', 'dark')
+  if (document.querySelector('meta[name="theme-color"]') !== null) {
+    document.querySelector('meta[name="theme-color"]').setAttribute('content', '#000')
+  }
+}
+var activateLightMode = function () {
+  document.documentElement.setAttribute('data-theme', 'light')
+  if (document.querySelector('meta[name="theme-color"]') !== null) {
+    document.querySelector('meta[name="theme-color"]').setAttribute('content', '#fff')
+  }
+}
+
+var getCookies = function (name) {
+  const value = `; ${document.cookie}`
+  const parts = value.split(`; ${name}=`)
+  if (parts.length === 2) return parts.pop().split(';').shift()
+}
+
+var autoChangeMode = 'false'
+var t = getCookies('theme')
+if (autoChangeMode === '1') {
+  var isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
+  var isLightMode = window.matchMedia('(prefers-color-scheme: light)').matches
+  var isNotSpecified = window.matchMedia('(prefers-color-scheme: no-preference)').matches
+  var hasNoSupport = !isDarkMode && !isLightMode && !isNotSpecified
+
+  if (t === undefined) {
+    if (isLightMode) activateLightMode()
+    else if (isDarkMode) activateDarkMode()
+    else if (isNotSpecified || hasNoSupport) {
+      console.log('You specified no preference for a color scheme or your browser does not support it. I Schedule dark mode during night time.')
+      var now = new Date()
+      var hour = now.getHours()
+      var isNight = hour <= 6 || hour >= 18
+      isNight ? activateDarkMode() : activateLightMode()
+    }
+    window.matchMedia('(prefers-color-scheme: dark)').addListener(function (e) {
+      if (Cookies.get('theme') === undefined) {
+        e.matches ? activateDarkMode() : activateLightMode()
+      }
+    })
+  } else if (t === 'light') activateLightMode()
+  else activateDarkMode()
+} else if (autoChangeMode === '2') {
+  now = new Date()
+  hour = now.getHours()
+  isNight = hour <= 6 || hour >= 18
+  if (t === undefined) isNight ? activateDarkMode() : activateLightMode()
+  else if (t === 'light') activateLightMode()
+  else activateDarkMode()
+} else {
+  if (t === 'dark') activateDarkMode()
+  else if (t === 'light') activateLightMode()
+}</script><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titillium+Web&amp;display=swap"><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"search.xml","languages":{"hits_empty":"找不到您查询的内容:${query}"}},
+  translate: {"defaultEncoding":2,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"簡"},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  bookmark: {
+    message_prev: '按',
+    message_next: '键将本页加入书签'
+  },
+  runtime_unit: '天',
+  runtime: true,
+  copyright: undefined,
+  ClickShowText: undefined,
+  medium_zoom: false,
+  fancybox: true,
+  Snackbar: undefined,
+  justifiedGallery: {
+    js: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/js/jquery.justifiedGallery.min.js',
+    css: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/css/justifiedGallery.min.css'
+  },
+  baiduPush: true,
+  highlightCopy: true,
+  highlightLang: true,
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isanchor: false    
+}</script><script>var GLOBAL_CONFIG_SITE = { 
+  isPost: false,
+  isHome: false,
+  isHighlightShrink: false,
+  isSidebar: false
+  }</script><noscript><style>
+#nav {
+  opacity: 1
+}
+.justified-gallery img{
+  opacity: 1
+}
+</style></noscript><meta name="generator" content="Hexo 4.2.1"><link rel="alternate" href="/atom.xml" title="Hackathon2020@华东" type="application/atom+xml">
+</head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">YDJSIR</div></div></div><div id="mobile-sidebar"><div id="menu_mask"></div><div id="mobile-sidebar-menus"><div class="mobile_author_icon"><img class="avatar-img" src="/img/avatar.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="mobile_post_data"><div class="mobile_data_item is-center"><div class="mobile_data_link"><a href="/archives/"><div class="headline">文章</div><div class="length_num">1</div></a></div></div><div class="mobile_data_item is-center">     <div class="mobile_data_link"><a href="/categories/"><div class="headline">分类</div><div class="length_num">1</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fas fa-list"></i><span> 角色</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/participants/"><i class="fa-fw fas fa-building"></i><span> 参赛选手</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div id="body-wrap"><header class="not-index-bg" id="page-header" style="background-image: url(https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/img/header.png)"><nav id="nav"><span class="pull-left" id="blog_name"><a class="blog_title" id="site-name" href="/">Hackathon2020@华东</a></span><span class="pull-right menus"><div id="search_button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fas fa-list"></i><span> 角色</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/participants/"><i class="fa-fw fas fa-building"></i><span> 参赛选手</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><span class="toggle-menu close"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></span></span></nav><div id="page_site-info"><h1 id="site_title">sponsors</h1></div></header><main class="layout_page hide-aside" id="content-inner"><div id="page"><div id="article-container"><h3 id="1-为什么选择赞助我们"><a href="#1-为什么选择赞助我们" class="headerlink" title="1.为什么选择赞助我们"></a>1.为什么选择赞助我们</h3><p>⚫高质量的参与者 </p>
+<p>​       本届 Hackathon 是华东地区规模较大的 Hackathon，参与者均为华东地区 4 所“985 工程”高校、3 所“211 工程”高校，线上参与者中包涵许多大公司的实习生，ACM 竞赛和各种创新大赛获奖者，以及尚未崭露头角、潜力巨大的未来之星。贵公司可以在此大赛上发现新颖的项目新思路并挖掘优秀的人才为己所用。 </p>
+<p>⚫ 扩大影响力 </p>
+<p>​        如果您想扩大公司的影响力和品牌知名度，或者想展示公司的开发硬件或 API，或者让更多的潜在合作伙伴深入了解你的公司，那么前来参加 Hackathon 将会是一个极佳的选择。很多公司愿意赞助 Hackathon 是看中了它在开发者群体中广泛的传播力度，并且现如今，社会对信息领域创新的重视度愈发提高。我们与各类优秀媒体都有着长期密切的合作关系，在这里，您的公司能够站上一个优秀的宣传平台，进而公司的专业公信力与社会影响力毋庸置疑会成倍增加。</p>
+<p>​        值得一提的是，由于受到疫情等情况的影响，本届大赛决定采取全程的线上比赛模式。因此本届大赛将会极大程度地依托网络媒宣平台开展，为扩大我们的影响力，我们决定延续微博实况、微信公众号实时更新等新媒体宣传策略，并且再对纯线上的活动模式做出新的企划，邀请各家媒体对比赛的不同阶段进行实时报道，以尽力扩大网络影响力。 </p>
+<p>⚫产品反馈和应用 </p>
+<p>​        此次 Hackathon是您的产品实践的理想环境，它可以帮您实时观察产品的潜在实际使用情况，自然而然地提供终极用户测试。了解黑客在使用您的产品时的信息将成为您微调产品功能和记录文档的重要途径，使您抓住问题核心，明白如何创造更好的用户体验。此外，我们提供了一个 200 人的强大的用户池，这些玩家都具有超强的创新思维，他们可以测试您的产品的维持性和发展性。通过诸如展示时间之类的活动环节和与参与者交流，我们决心帮助您最大限度地利用这些机会提升公司的专业实力。</p>
+<p>⚫ 企业单位合作交流 </p>
+<p>​        由于疫情的影响，为了成功举办，本次大赛决定采用全新的线上模式，运用云直播全程赛程推进等网络媒宣方式，这也为企业单位与参赛者甚至观众提供了更加广阔的交流平台。借力于本次大赛，我们不仅为参赛者提供众多的优质资源和平台，与此同时作为中间人，为高校、企业及单位之间搭建了一条四通八达的桥梁，有利于多方领域达成互利共赢的合作关系。 </p>
+<p>⚫ 获取机会 </p>
+<p>​        大学生本身就是一个想法多元、朝气蓬勃而且充满创新能力的群体。此次Hackathon 为您提供了接触那些优秀的技术人才的机会。在这里，我们可以自豪地说：我们吸引了一部分最聪明的人。我们将在当事人同意的前提下将参与者的信息最大程度地共享给赞助商和合作伙伴，促成双方的深度了解沟通，以此提供给所有赞助商和参与者交流实习或全职工作的机会。</p>
+<h3 id="2-推荐合作形式"><a href="#2-推荐合作形式" class="headerlink" title="2.推荐合作形式"></a>2.推荐合作形式</h3><p>​        考虑到疫情影响，今年大赛采用全新的线上模式，相应的企业赞助方式也会发生相应的改变，更加自由，更加多元，更加包容。以下是所有我们倾向的赞助形式，供您参考。我们在决定赞助商权益时会将以下所有但并不局限于此形式的赞助纳入考虑范围。 </p>
+<p>⚫资金赞助 </p>
+<p>​       为了保证活动的成功举办，我们将大量寻求资金赞助。资金赞助对我们组织筹备大赛非常重要。请相信您赞助的每一分资金都会被有效用于此次 Hackathon 中，并且我们将会把它的价值发挥到最大，您的帮助将直接为广大具备创新精神的人才们提供一个更加广阔的、能够充分发挥自身创造力和才华的平台。</p>
+<p>⚫奖品赞助 </p>
+<p>​       对与参赛者来说，奖品是一种实体的奖励与精神上的鼓舞。选手们希望见到自己的项目被认可，尤其是经过累积超过 24 小时的高强度工作之后。奖品赞助对我们也非常重要，因为我们可以通过优质的奖品更加激发参赛者的参与热情，从而呈现更加精彩激烈的赛况。并且值得一提的是，由于全新线上参赛模式的采用，我们将会开辟出专门的页面对于奖品进行专门的介绍与宣传，贵公司也可以借此机会提升知名度与影响力。因此我们希望可以获得来自您提供的各类优质奖品。从另一个角度思考，在此次 Hackathon 上提供奖品的同时，您也为您的产品收获了新的高水平的用户群。 </p>
+<p>⚫ 餐饮赞助 </p>
+<p>​      饮食是维持生命的基本要素，尤其在高强度的 Hackathon 中，参赛者可能会经历几乎 24 小时没有睡眠，甚至没有休息的程序开发工作，因此为了参赛者能够没有身体负担，全身心地投身于项目开发。我们将寻求包括速食、饮料以及零食在内的各种形式活动餐饮赞助，然后提前通过信息表的查询确定收货地址，在赛前将补给品寄送至参赛人员手中，同时，我们也建议有相关创意的企业能够借此主题设计生产特别产品，再免费借助此次大赛的宣传平台，以此创造企业效益。与此同时，更加方便快捷的餐补费用也是非常欢迎的。</p>
+<p>⚫ API 应用编程接口赞助 </p>
+<p>​        API在Hackathon 中非常重要。因为 24 小时的快速开发，参赛者通常会选择使用现有的 API 来实现项目中的某些功能。我们希望让参赛者拥有尽可能完善的资源。我们希望能够获得贵公司产品的应用程序接口访问权限。我们相信通过这样的合作，参赛者们可以通过意想不到的方式使用开放的 API，为您的产品提供解决方案的新思路。</p>
+<p>⚫硬件赞助 </p>
+<p>​       硬件开发也是 Hackathon 很重要的一环，我们将大力寻求从电路元件到智能设备等硬件赞助。您可以租借或者是赠送的形式为我们提供或专门作为企业奖颁予参赛者。在创造力无穷的参赛者手中，这些硬件一定能发挥巨大的作用，进而无形中为参赛者助力，提升大赛质量。</p>
+<p>⚫广告与宣传赞助 </p>
+<p>​       为了让更多人了解到我们的活动，扩大影响力，我们需要能够拓宽我们线上影响力的组织和个人。如果您是新时代里的媒宣公司或者自媒体个人，那么Hackathon张开双臂欢迎您的加入，我们希望能够通过您的力量来提高我们的社会影响力，与此同时您也可以借此机会与在软件开发与程序设计方面能力顶尖的学生群体产生奇妙的联系，异领域信息交互带来的巨大潜力是难以估量的。 </p>
+<p>​     </p>
+<h3 id="3-当前赞助伙伴"><a href="#3-当前赞助伙伴" class="headerlink" title="3.当前赞助伙伴"></a>3.当前赞助伙伴</h3><p>• 微软亚洲研究院 </p>
+<p>• 微软（中国）有限公司 </p>
+<p>• 微软开发者关系部门</p>
+<h3 id="4-赞助商权益"><a href="#4-赞助商权益" class="headerlink" title="4.赞助商权益"></a>4.赞助商权益</h3><table>
+<thead>
+<tr>
+<th>赞助商</th>
+<th>铜牌赞助商</th>
+<th>银牌赞助商</th>
+<th>金牌赞助商</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>价格</td>
+<td>￥4，000</td>
+<td>￥8，000</td>
+<td>￥12，000</td>
+<td></td>
+</tr>
+<tr>
+<td>基本权益</td>
+<td>提供导师</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+</tr>
+<tr>
+<td>赞助商展位</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+<td></td>
+</tr>
+<tr>
+<td>产品演示</td>
+<td>5分钟</td>
+<td>10分钟</td>
+<td>线上展台</td>
+<td></td>
+</tr>
+<tr>
+<td>公司演讲</td>
+<td></td>
+<td>5分钟</td>
+<td>10分钟</td>
+<td></td>
+</tr>
+<tr>
+<td>技术演讲</td>
+<td></td>
+<td>1场</td>
+<td>1场</td>
+<td></td>
+</tr>
+<tr>
+<td>开幕式致辞</td>
+<td></td>
+<td>√</td>
+<td>√</td>
+<td></td>
+</tr>
+<tr>
+<td>闭幕式颁奖</td>
+<td></td>
+<td>√</td>
+<td>√</td>
+<td></td>
+</tr>
+<tr>
+<td>比赛主题</td>
+<td></td>
+<td></td>
+<td>√</td>
+<td></td>
+</tr>
+<tr>
+<td>招聘机会</td>
+<td>分发招聘信息</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+</tr>
+<tr>
+<td>参赛者信息</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+<td></td>
+</tr>
+<tr>
+<td>HR访问</td>
+<td></td>
+<td>√</td>
+<td>√</td>
+<td></td>
+</tr>
+<tr>
+<td>参赛者交流</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+<td></td>
+</tr>
+<tr>
+<td>品牌宣传</td>
+<td>宣传册分发</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+</tr>
+<tr>
+<td>Logo曝光</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+<td></td>
+</tr>
+<tr>
+<td>企业专项奖</td>
+<td></td>
+<td>√</td>
+<td>√</td>
+<td></td>
+</tr>
+<tr>
+<td>API收录奖</td>
+<td></td>
+<td>√</td>
+<td>√</td>
+<td></td>
+</tr>
+<tr>
+<td>媒体宣传</td>
+<td></td>
+<td>1次+</td>
+<td>3次+</td>
+<td></td>
+</tr>
+<tr>
+<td>E-mail宣传</td>
+<td>√</td>
+<td>√</td>
+<td>√</td>
+<td></td>
+</tr>
+</tbody></table>
+</div></div></main><footer id="footer" data-type="color"><div id="footer-wrap"><div class="copyright">&copy;2020 By NJUMSC</div><div class="framework-info"><span>驱动 </span><a href="https://hexo.io" target="_blank" rel="noopener"><span>Hexo</span></a><span class="footer-separator">|</span><span>主题 </span><a href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" rel="noopener"><span>Butterfly</span></a></div><div class="footer_custom_text">2020华东Hackathon组委会</div></div></footer></div><section class="rightside" id="rightside"><div id="rightside-config-hide"><button class="translate_chn_to_cht" id="translateLink" title="简繁转换">簡</button><button id="darkmode" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button></div><div id="rightside-config-show"><button id="rightside_config" title="设置"><i class="fas fa-cog"></i></button><button id="go-up" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></section><div class="search-dialog" id="local-search"><div class="search-dialog__title" id="local-search-title">本地搜索</div><div id="local-input-panel"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div></div><hr/><div id="local-search-results"><div id="local-hits"></div><div id="local-stats"><div class="local-search-stats__hr" id="hr"><span>由</span> <a href="https://github.com/wzpan/hexo-generator-search" target="_blank" rel="noopener" style="color:#49B1F5;">hexo-generator-search</a>
+ <span>提供支持</span></div></div></div><span class="search-close-button"><i class="fas fa-times"></i></span></div><div class="search-mask"></div><script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/js/tw_cn.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js"></script><script id="ribbon_piao" mobile="false" src="/js/third-party/piao.js"></script><script src="/js/third-party/activate-power-mode.js"></script><script>POWERMODE.colorful = true;
+POWERMODE.shake = true;
+document.body.addEventListener('input', POWERMODE);
+</script><script src="https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js" type="module" defer></script><script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload/dist/lazyload.iife.min.js" async></script><script src="https://cdn.jsdelivr.net/npm/pangu/dist/browser/pangu.min.js"></script><script>document.addEventListener('DOMContentLoaded', function() {
+  pangu.autoSpacingPage()
+})</script><script src="/js/search/local-search.js"></script><script>if (document.getElementsByClassName('mermaid').length) {
+  loadScript('https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js',function () {
+    mermaid.initialize({
+      theme: 'default',
+  })
+})
+}</script><script>var endLoading = function () {
+  document.body.style.overflow = 'auto';
+  document.getElementById('loading-box').classList.add("loaded")
+}
+window.addEventListener('load',endLoading)</script></body></html>

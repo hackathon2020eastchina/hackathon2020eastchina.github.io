@@ -1,0 +1,189 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>选手须知 | Hackathon2020@华东</title><meta name="description" content="选手职责​    本次大赛以多元化为出发点，所涵盖专业方向包括电子工程、微电子工程、机械工程、软件工程、计算机科学、人文科学、社会科学、工业设计、产品设计、U&#x2F;UX设计、数据分析、视频制作、视频剪辑、游戏开发等。我们尽可能让所有的参赛者都能够在其中找到适合自己发挥特长的领域。参赛者可以根据自身的能力特⻓担任团队中的不同角色，其中包括但不限于:前&#x2F;后端开发、移动&#x2F;桌面端开发、VR&#x2F;AR开发、数据分析"><meta name="keywords" content="Tech, Hackathon"><meta name="author" content="NJUMSC"><meta name="copyright" content="NJUMSC"><meta name="format-detection" content="telephone=no"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="https://hackathon2020eastchina.github.io/participants/"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//fonts.googleapis.com" crossorigin="crossorigin"/><link rel="preconnect" href="//zz.bdstatic.com"/><meta property="og:type" content="website"><meta property="og:title" content="选手须知"><meta property="og:url" content="https://hackathon2020eastchina.github.io/participants/"><meta property="og:site_name" content="Hackathon2020@华东"><meta property="og:description" content="选手职责​    本次大赛以多元化为出发点，所涵盖专业方向包括电子工程、微电子工程、机械工程、软件工程、计算机科学、人文科学、社会科学、工业设计、产品设计、U&#x2F;UX设计、数据分析、视频制作、视频剪辑、游戏开发等。我们尽可能让所有的参赛者都能够在其中找到适合自己发挥特长的领域。参赛者可以根据自身的能力特⻓担任团队中的不同角色，其中包括但不限于:前&#x2F;后端开发、移动&#x2F;桌面端开发、VR&#x2F;AR开发、数据分析"><meta property="og:image" content="https://oss.ydjsir.com.cn/header.png"><meta property="article:published_time" content="2020-10-31T16:10:50.000Z"><meta property="article:modified_time" content="2020-11-08T15:29:16.146Z"><meta name="twitter:card" content="summary"><script>var activateDarkMode = function () {
+  document.documentElement.setAttribute('data-theme', 'dark')
+  if (document.querySelector('meta[name="theme-color"]') !== null) {
+    document.querySelector('meta[name="theme-color"]').setAttribute('content', '#000')
+  }
+}
+var activateLightMode = function () {
+  document.documentElement.setAttribute('data-theme', 'light')
+  if (document.querySelector('meta[name="theme-color"]') !== null) {
+    document.querySelector('meta[name="theme-color"]').setAttribute('content', '#fff')
+  }
+}
+
+var getCookies = function (name) {
+  const value = `; ${document.cookie}`
+  const parts = value.split(`; ${name}=`)
+  if (parts.length === 2) return parts.pop().split(';').shift()
+}
+
+var autoChangeMode = 'false'
+var t = getCookies('theme')
+if (autoChangeMode === '1') {
+  var isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
+  var isLightMode = window.matchMedia('(prefers-color-scheme: light)').matches
+  var isNotSpecified = window.matchMedia('(prefers-color-scheme: no-preference)').matches
+  var hasNoSupport = !isDarkMode && !isLightMode && !isNotSpecified
+
+  if (t === undefined) {
+    if (isLightMode) activateLightMode()
+    else if (isDarkMode) activateDarkMode()
+    else if (isNotSpecified || hasNoSupport) {
+      console.log('You specified no preference for a color scheme or your browser does not support it. I Schedule dark mode during night time.')
+      var now = new Date()
+      var hour = now.getHours()
+      var isNight = hour <= 6 || hour >= 18
+      isNight ? activateDarkMode() : activateLightMode()
+    }
+    window.matchMedia('(prefers-color-scheme: dark)').addListener(function (e) {
+      if (Cookies.get('theme') === undefined) {
+        e.matches ? activateDarkMode() : activateLightMode()
+      }
+    })
+  } else if (t === 'light') activateLightMode()
+  else activateDarkMode()
+} else if (autoChangeMode === '2') {
+  now = new Date()
+  hour = now.getHours()
+  isNight = hour <= 6 || hour >= 18
+  if (t === undefined) isNight ? activateDarkMode() : activateLightMode()
+  else if (t === 'light') activateLightMode()
+  else activateDarkMode()
+} else {
+  if (t === 'dark') activateDarkMode()
+  else if (t === 'light') activateLightMode()
+}</script><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titillium+Web&amp;display=swap"><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"search.xml","languages":{"hits_empty":"找不到您查询的内容:${query}"}},
+  translate: {"defaultEncoding":2,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"簡"},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  bookmark: {
+    message_prev: '按',
+    message_next: '键将本页加入书签'
+  },
+  runtime_unit: '天',
+  runtime: true,
+  copyright: undefined,
+  ClickShowText: undefined,
+  medium_zoom: false,
+  fancybox: true,
+  Snackbar: undefined,
+  justifiedGallery: {
+    js: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/js/jquery.justifiedGallery.min.js',
+    css: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/css/justifiedGallery.min.css'
+  },
+  baiduPush: true,
+  highlightCopy: true,
+  highlightLang: true,
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isanchor: false    
+}</script><script>var GLOBAL_CONFIG_SITE = { 
+  isPost: false,
+  isHome: false,
+  isHighlightShrink: false,
+  isSidebar: false
+  }</script><noscript><style>
+#nav {
+  opacity: 1
+}
+.justified-gallery img{
+  opacity: 1
+}
+</style></noscript><meta name="generator" content="Hexo 4.2.1"><link rel="alternate" href="/atom.xml" title="Hackathon2020@华东" type="application/atom+xml">
+</head><body><div id="loading-box"><div class="loading-left-bg"></div><div class="loading-right-bg"></div><div class="spinner-box"><div class="configure-border-1"><div class="configure-core"></div></div><div class="configure-border-2"><div class="configure-core"></div></div><div class="loading-word">YDJSIR</div></div></div><div id="mobile-sidebar"><div id="menu_mask"></div><div id="mobile-sidebar-menus"><div class="mobile_author_icon"><img class="avatar-img" src="/img/avatar.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="mobile_post_data"><div class="mobile_data_item is-center"><div class="mobile_data_link"><a href="/archives/"><div class="headline">文章</div><div class="length_num">1</div></a></div></div><div class="mobile_data_item is-center">     <div class="mobile_data_link"><a href="/categories/"><div class="headline">分类</div><div class="length_num">1</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fas fa-list"></i><span> 角色</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/participants/"><i class="fa-fw fas fa-building"></i><span> 参赛选手</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div id="body-wrap"><header class="not-index-bg" id="page-header" style="background-image: url(https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/img/header.png)"><nav id="nav"><span class="pull-left" id="blog_name"><a class="blog_title" id="site-name" href="/">Hackathon2020@华东</a></span><span class="pull-right menus"><div id="search_button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fas fa-list"></i><span> 角色</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/participants/"><i class="fa-fw fas fa-building"></i><span> 参赛选手</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><span class="toggle-menu close"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></span></span></nav><div id="page_site-info"><h1 id="site_title">选手须知</h1></div></header><main class="layout_page hide-aside" id="content-inner"><div id="page"><div id="article-container"><h3 id="选手职责"><a href="#选手职责" class="headerlink" title="选手职责"></a>选手职责</h3><p>​    本次大赛以多元化为出发点，所涵盖专业方向包括电子工程、微电子工程、机械工程、软件工程、计算机科学、人文科学、社会科学、工业设计、产品设计、U/UX设计、数据分析、视频制作、视频剪辑、游戏开发等。我们尽可能让所有的参赛者都能够在其中找到适合自己发挥特长的领域。参赛者可以根据自身的能力特⻓担任团队中的不同角色，其中包括但不限于:前/后端开发、移动/桌面端开发、VR/AR开发、数据分析、数据挖掘、机器学习、⾃然语言分析、算法设计、UI设计、UX设计、Ⅵ设计、网页设计、平面设计、动画设计、游戏设计、文案策划设计、项⽬构思、项目管理、产品管理、产品研发、产品测试等。在完成队伍组建后，参赛者们需要通过统一协商分工去完成24小时的项目开发。在比赛的24⼩时⾥，参赛队伍大致需要完成以下几个步骤：</p>
+<ol>
+<li>组内讨论完善项目的设计方案；</li>
+<li>结合前期调研进行可行性分析；</li>
+<li>利用现有资源进行项目“Demo”制作。</li>
+</ol>
+<h3 id="决赛成绩构成"><a href="#决赛成绩构成" class="headerlink" title="决赛成绩构成"></a>决赛成绩构成</h3><h4 id="1-项目创意（40-）"><a href="#1-项目创意（40-）" class="headerlink" title="1. 项目创意（40%）"></a>1. 项目创意（<code>40%</code>）</h4><p>此项指项目对其应用领域的创新性（如UI/UX 独创性、微创新等），最低分数为5分，最高分为10分。</p>
+<p>此部分细节由评委协商一致再定细则，可根据实现状况优劣可酌情调整，成绩精确至整数位。</p>
+<ul>
+<li>极富创新性，令人耳目一新—— <code>9-10</code> 分；</li>
+<li>较有创新性，得到评委认同—— <code>7- 8</code> 分；</li>
+<li>创新性一般，没有太多新意—— <code>5- 6</code> 分。</li>
+</ul>
+<h5 id="评分参考"><a href="#评分参考" class="headerlink" title="评分参考"></a>评分参考</h5><ul>
+<li>Does the project create a new category of product or service?<br>项目是否创建了新型的产品或服务？</li>
+<li>Does the project clearly and meaningfully innovate beyond existing products or services?<br>项目是否比现有产品或服务有清晰而且有价值的创新？</li>
+<li>Does the project include innovations in user experience?<br>项目是否包括用户体验方面的创新？  </li>
+</ul>
+<p>此项也可以安排<code>10</code>分以内的特殊加分。</p>
+<h4 id="2-专业难度（30-）"><a href="#2-专业难度（30-）" class="headerlink" title="2. 专业难度（30%）"></a>2. 专业难度（<code>30%</code>）</h4><p>此项指项目实现的技术难度。对于每一个顺利完成并提交的作品，最低分数为5分，最高分为10分。</p>
+<p>此部分细节由评委协商一致再定细则，可根据实现状况优劣可酌情调整，成绩精确至整数位。</p>
+<ul>
+<li><p>实现非常困难—— <code>9 - 10</code> 分；</p>
+</li>
+<li><p>实现难度较大—— <code>7- 8</code> 分；</p>
+</li>
+<li><p>实现难度一般—— <code>5- 6</code> 分。</p>
+</li>
+</ul>
+<p>此外，程序架构清晰，项目各部分正确耦合也是评判的重要条件。</p>
+<h5 id="评分参考-1"><a href="#评分参考-1" class="headerlink" title="评分参考"></a>评分参考</h5><ul>
+<li><p>Does the project make effective and appropriate use of the major features of its chosen platform(s)? Were there significant platform features or even platforms the project could have benefitted from but failed to utilize?<br>该项目是否有效和适当地使用其所选平台的主要功能？是否有重要的平台功能或甚至平台的项目可以受益，但未能利用？ </p>
+</li>
+<li><p>Does the team adequately address how the needs of all users with regards to gender, ethnicity, disability segment, or other diverse characteristics were considered to make their project inclusive and accessible? (10 points) •</p>
+<p>团队是否充分考虑了所有用户在性别，种族，残疾人群或其他不同特征方面的需求，他们的项目具有兼容性和可访问性？</p>
+</li>
+<li><p>Has the project been tested for accessibility to ensure that it is usable by everyone? </p>
+<p>项目是否已完成了可访问性测试，确保每个人都可以使用它？</p>
+</li>
+<li><p>Does the project include innovations in technical design and/or implementation?</p>
+<p>项目是否包括技术设计和 /或实施方面的创新？</p>
+</li>
+</ul>
+<h4 id="3-商业价值（20-）"><a href="#3-商业价值（20-）" class="headerlink" title="3. 商业价值（20%）"></a>3. 商业价值（<code>20%</code>）</h4><p>项目在市场上的商业预估价值（具体为能否商业化，能否对已有市场进行增益/轮换，有无未来应用潜力等）</p>
+<h5 id="评分参考-2"><a href="#评分参考-2" class="headerlink" title="评分参考"></a>评分参考</h5><ul>
+<li><p>Does the project have a clear target market or audience?<br>项目是否有明确的目标市场或受众？</p>
+</li>
+<li><p>Does the project address a clear need problem or opportunity and is the solution clearly?<br>项目是否针对明确的需求、问题或机会，是否清楚地解释了解决方案？</p>
+</li>
+<li><p>Does the team have a credible plan for getting their project to market in terms of business model any required partnerships, or other factors?</p>
+<p>团队是否拥有一个完善的计划和业务模式，以将他们的项目推广到市场？有哪些必须的合作伙伴与其他因素？</p>
+</li>
+<li><p>Does the project have a reasonable chance of success in its appropriate market given the team s existing plan? </p>
+<p>根据团队现有的项目计划，项目在相关市场是否有合理机会赢得市场？</p>
+</li>
+</ul>
+<h4 id="4-展示风采（10-）"><a href="#4-展示风采（10-）" class="headerlink" title="4. 展示风采（10%）"></a>4. 展示风采（<code>10%</code>）</h4><p>队伍在展示过程中的表现（具体为团队协作程度，完成度，清晰表达能力，表现力等）。</p>
+<ul>
+<li><p>Does the team express their idea clearly and confidently in their presentation?</p>
+<p>团队是否在他们的答辩中清晰且自信地表达他们的想法？</p>
+</li>
+<li><p>Do the members of the team negotiate with each other adequately and efficiently?</p>
+<p>团队成员间的合作是否充足且高效？</p>
+</li>
+<li><p>Does the team answer the questions from the judges well in their  presentation? </p>
+<p>团队能否在他们的答辩中较好地回答评委的提问？</p>
+</li>
+</ul>
+<h3 id="评分与答辩"><a href="#评分与答辩" class="headerlink" title="评分与答辩"></a>评分与答辩</h3><h4 id="初审（12-00-13-40）"><a href="#初审（12-00-13-40）" class="headerlink" title="初审（12:00-13:40）"></a>初审（12:00-13:40）</h4><p>总时长 <code>1h 40min</code>，四组同时进行，机动时间 <code>4 min</code> </p>
+<p>每组展示 <code>3 min</code>，质疑提问时间 <code>2 min</code>（2-3个问题）</p>
+<h4 id="复审（13-40-15-30）"><a href="#复审（13-40-15-30）" class="headerlink" title="复审（13:40-15:30）"></a>复审（13:40-15:30）</h4><p>总时长 <code>1h 50min</code>。</p>
+<p>每组上台展示 <code>7 min</code>，质疑提问时间 <code>3 min</code>（3-4个问题）</p>
+<p><code>5 min</code> 评委开会做最后调整，同时进行投票。</p>
+<p><code>5 min</code> 进行票务整理计算结果。</p>
+</div></div></main><footer id="footer" data-type="color"><div id="footer-wrap"><div class="copyright">&copy;2020 By NJUMSC</div><div class="framework-info"><span>驱动 </span><a href="https://hexo.io" target="_blank" rel="noopener"><span>Hexo</span></a><span class="footer-separator">|</span><span>主题 </span><a href="https://github.com/jerryc127/hexo-theme-butterfly" target="_blank" rel="noopener"><span>Butterfly</span></a></div><div class="footer_custom_text">2020华东Hackathon组委会</div></div></footer></div><section class="rightside" id="rightside"><div id="rightside-config-hide"><button class="translate_chn_to_cht" id="translateLink" title="简繁转换">簡</button><button id="darkmode" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button></div><div id="rightside-config-show"><button id="rightside_config" title="设置"><i class="fas fa-cog"></i></button><button id="go-up" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></section><div class="search-dialog" id="local-search"><div class="search-dialog__title" id="local-search-title">本地搜索</div><div id="local-input-panel"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div></div><hr/><div id="local-search-results"><div id="local-hits"></div><div id="local-stats"><div class="local-search-stats__hr" id="hr"><span>由</span> <a href="https://github.com/wzpan/hexo-generator-search" target="_blank" rel="noopener" style="color:#49B1F5;">hexo-generator-search</a>
+ <span>提供支持</span></div></div></div><span class="search-close-button"><i class="fas fa-times"></i></span></div><div class="search-mask"></div><script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/js/tw_cn.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js"></script><script id="ribbon_piao" mobile="false" src="/js/third-party/piao.js"></script><script src="/js/third-party/activate-power-mode.js"></script><script>POWERMODE.colorful = true;
+POWERMODE.shake = true;
+document.body.addEventListener('input', POWERMODE);
+</script><script src="https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js" type="module" defer></script><script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload/dist/lazyload.iife.min.js" async></script><script src="https://cdn.jsdelivr.net/npm/pangu/dist/browser/pangu.min.js"></script><script>document.addEventListener('DOMContentLoaded', function() {
+  pangu.autoSpacingPage()
+})</script><script src="/js/search/local-search.js"></script><script>if (document.getElementsByClassName('mermaid').length) {
+  loadScript('https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js',function () {
+    mermaid.initialize({
+      theme: 'default',
+  })
+})
+}</script><script>var endLoading = function () {
+  document.body.style.overflow = 'auto';
+  document.getElementById('loading-box').classList.add("loaded")
+}
+window.addEventListener('load',endLoading)</script></body></html>
