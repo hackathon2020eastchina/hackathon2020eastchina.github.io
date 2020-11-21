@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hackathon2020eastchina.github.io/"/>
-  <updated>2020-11-16T05:03:51.868Z</updated>
+  <updated>2020-11-21T16:30:06.945Z</updated>
   <id>https://hackathon2020eastchina.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>赛题发布啦！</title>
+    <link href="https://hackathon2020eastchina.github.io/2020/11/21/themeRelease/"/>
+    <id>https://hackathon2020eastchina.github.io/2020/11/21/themeRelease/</id>
+    <published>2020-11-21T09:45:08.000Z</published>
+    <updated>2020-11-21T16:30:06.945Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="赛题"><a href="#赛题" class="headerlink" title="赛题"></a>赛题</h1><p>本次大赛的大主题为”Hack For Efficiency”，主题方向为“用数字化为抗疫提效”。</p><p>众所周知，信息行业作为一个不直接产生价值而是靠赋能其他产业创造价值的行业，有着增能提效的天赋与使命。在新一轮数字化与智能化的浪潮中，突然杀出新冠疫情这一黑天鹅事件，扰乱了全球秩序。在抗击疫情的过程中，信息技术在协调、沟通、分析与辅助决策方面发挥了重要作用。这期间，既有传统idea的更进一步实现，也涌现着许多新的idea。</p><p>这期间，既有传统idea的更进一步实现，也涌现着许多新的idea。不难发现，在疫情期间，金融机构利用信息技术提供更精确的金融服务，公共安全部门利用信息技术维持秩序，商业组织利用信息技术适应疫情下经济的新常态。信息产品可以是在原来工具上的改进（更好的收集表，更精确的筛选与诊断等），也可以是全新应用场景的构建（短视频、健康码与行程记录等业态创新等）。</p><p>当然，这两者之间的界限并不是绝对的。例如，对视频会议的需求从未像今天这样庞大，远程会议的相关工具也有了极大的进步，随着越来越多的功能被集成，他们事实上正在构建着全方位的协作软件。例如，腾讯会议+腾讯QQ+腾讯文档，Teams与它所属的Office 365和钉钉，都成为了全场景远程办公的先行者与领导者。</p><p>本次比赛中具体的idea提出与实现，就看各位选手们的创意与实力了。</p><p>因而，本次大赛的主题是：</p><blockquote><h3 id="用数字化为抗疫提效"><a href="#用数字化为抗疫提效" class="headerlink" title="用数字化为抗疫提效"></a>用数字化为抗疫提效</h3></blockquote><h2 id="彩蛋活动"><a href="#彩蛋活动" class="headerlink" title="彩蛋活动"></a>彩蛋活动</h2><p>我们鼓励选手们在开发过程中用照片或者视频记录下团队灵感火花迸发的高光时刻，也十分期待着将这些宝贵的瞬间分享给更多的人。</p><p>参赛团队可将照片或视频的<code>源文件</code>或<code>图床地址</code>发送至主办方指定邮箱 <a href="mailto:hackathon2020eastchina@outlook.com">hackathon2020eastchina@outlook.com</a>。</p><p>主办方将会挑选部分照片在比赛官网进行展示，在等待评委评审的过程中，选手们可以给喜欢的照片投票，获得票数最高的一组将获得彩蛋小礼品。</p><h3 id="要点"><a href="#要点" class="headerlink" title="要点"></a>要点</h3><ul><li><p>可提交活动照片/视频供展示；</p></li><li><p>提交源文件/图床地址均可，均发送到 <a href="mailto:hackathon2020eastchina@outlook.com">hackathon2020eastchina@outlook.com</a>；</p></li><li><p>内容提交截止时间为 <code>11.29</code>  <code>17:20</code>；</p></li><li><p>展示与投票时间在<code>11.29</code> <code>17:00~17:30</code> ，即等待比赛结果的时间段。</p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;赛题&quot;&gt;&lt;a href=&quot;#赛题&quot; class=&quot;headerlink&quot; title=&quot;赛题&quot;&gt;&lt;/a&gt;赛题&lt;/h1&gt;&lt;p&gt;本次大赛的大主题为”Hack For Efficiency”，主题方向为“用数字化为抗疫提效”。&lt;/p&gt;
+&lt;p&gt;众所周知，信息行业作为一个不
+      
+    
+    </summary>
+    
+    
+      <category term="比赛信息" scheme="https://hackathon2020eastchina.github.io/categories/%E6%AF%94%E8%B5%9B%E4%BF%A1%E6%81%AF/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>来！2020华东Hackathon大赛</title>
@@ -47,9 +72,9 @@
     <link href="https://hackathon2020eastchina.github.io/2020/11/01/plan/"/>
     <id>https://hackathon2020eastchina.github.io/2020/11/01/plan/</id>
     <published>2020-10-31T16:10:19.000Z</published>
-    <updated>2020-11-16T05:04:24.276Z</updated>
+    <updated>2020-11-21T15:59:45.560Z</updated>
     
-    <content type="html"><![CDATA[<p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/post.png" alt="post"></p><h2 id="赛题"><a href="#赛题" class="headerlink" title="赛题"></a>赛题</h2><p>​    11月21日中午12时公布。</p><h2 id="比赛日程"><a href="#比赛日程" class="headerlink" title="比赛日程"></a>比赛日程</h2><h3 id="赛制详情"><a href="#赛制详情" class="headerlink" title="赛制详情"></a>赛制详情</h3><ul><li>参赛选手总数：200人左右</li><li>队伍规模：每队3-4人</li><li>分区情况：抽签分为五组</li></ul><p>参赛队伍将完成24小时不间断的项目开发。工作坊中我们将会安排相关导师进行技术指导、初审和复审。赛末通过抽签分成五组，各组限时五分钟展示以及2分钟Q&amp;A时间，然后将由导师进行评审，最终每组将会有两支队伍出线，参加最终的决赛评审。</p><h3 id="比赛日程-1"><a href="#比赛日程-1" class="headerlink" title="比赛日程"></a>比赛日程</h3><p>正式比赛计划于11月28~29日举行</p><ol><li>组队报名参赛；</li><li>正式比赛日前7日（预计在11月21日）获取比赛主题并开展相关前期准备工作；</li><li>参与比赛开幕式与系列技术讲座；（预计在11月28日早上8：00或9：00开始 11：00结束）</li><li>首个比赛日中午12:00比赛组织者发出比赛开始号令后开始开发；</li><li>在次个比赛日中午12:00完成开发并提交作品以及相关技术文档；</li><li>准备并参与初赛评审，而后等待初赛结果；</li><li>如初赛出线，则参与决赛答辩；（预计在11月29号下午14：30或15：00开始 18：00点结束</li><li>参与比赛颁奖仪式与闭幕式。（11月29日 19：00或19：30开始)</li></ol><h2 id="奖项设置"><a href="#奖项设置" class="headerlink" title="奖项设置"></a>奖项设置</h2><table><thead><tr><th>奖项</th><th>数量</th><th>奖品</th></tr></thead><tbody><tr><td>一等奖</td><td>1</td><td>IKBC C87红轴 * 4 + 奖金￥1500</td></tr><tr><td>二等奖</td><td>2</td><td>罗技鼠标M330 * 4 + 奖金￥200</td></tr><tr><td>三等奖</td><td>5</td><td>Hackathon2020定制U盘 * 4</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/post.png" alt="post"></p><h2 id="赛题"><a href="#赛题" class="headerlink" title="赛题"></a>赛题</h2><p>已经发布。请查看以下链接：</p><p><a href="https://hackathon2020eastchina.top/2020/11/21/themeRelease/" target="_blank" rel="noopener">https://hackathon2020eastchina.top/2020/11/21/themeRelease/</a></p><h3 id="比赛日程"><a href="#比赛日程" class="headerlink" title="比赛日程"></a>比赛日程</h3><h4 id="赛制详情"><a href="#赛制详情" class="headerlink" title="赛制详情"></a>赛制详情</h4><ul><li>队伍规模：每队3-4人</li><li>分区情况：抽签分为五组</li></ul><p>​    参赛队伍将完成24小时不间断的项目开发。工作坊中我们将会安排相关导师进行技术指导、初审和复审。</p><p>​    赛末通过抽签分成五组，各组限时4分钟展示以及3分钟Q&amp;A时间，然后将由导师进行评审，最终每组将会有两支队伍出线，参加最终的决赛评审。</p><p>​    出线队伍将在总决赛中轮流线上答辩，每队限时7分钟展示和5分钟Q&amp;A时间；未晋级的队伍可以给晋级的队伍投票。</p><h4 id="比赛日程-1"><a href="#比赛日程-1" class="headerlink" title="比赛日程"></a>比赛日程</h4><table><thead><tr><th align="center">时间</th><th align="center">日程</th></tr></thead><tbody><tr><td align="center">11.21</td><td align="center">赛题公开</td></tr><tr><td align="center">11.28  8：00~11：00</td><td align="center">比赛开幕式和技术讲座</td></tr><tr><td align="center">11.28  12：00</td><td align="center">比赛开始 提交通道开启</td></tr><tr><td align="center">11.28  12：00~11.29  12：00</td><td align="center">比赛时间</td></tr><tr><td align="center">11.29 12：00</td><td align="center">作品和说明文档提交截止</td></tr><tr><td align="center">11.29  12：30~14：00</td><td align="center">初赛评审</td></tr><tr><td align="center">11.29  14：30~17：00</td><td align="center">决赛答辩</td></tr><tr><td align="center">11.29  17：00~17：30</td><td align="center">彩蛋活动</td></tr><tr><td align="center">11.29  17：30~19：00</td><td align="center">颁奖仪式与闭幕式</td></tr></tbody></table><h3 id="评分与答辩"><a href="#评分与答辩" class="headerlink" title="评分与答辩"></a>评分与答辩</h3><p>初审与复审导师评分标准一致</p><h4 id="初审（12-40-14-00）"><a href="#初审（12-40-14-00）" class="headerlink" title="初审（12:40-14:00）"></a>初审（12:40-14:00）</h4><p>分组答辩 每组展示<code>4min</code> 质询提问时间 <code>3min</code></p><p>每组一个线上会议室，公开答辩，其他选手可以选择去不同的组参观，即将展示的选手会得到提醒，共享屏幕即可开始答辩，建议选手提前测试好设备（无论是电脑还是手机端），确保能展示产品效果</p><h4 id="复审（14-30-17-00）"><a href="#复审（14-30-17-00）" class="headerlink" title="复审（14:30-17:00）"></a>复审（14:30-17:00）</h4><p>总时长 <code>2.5h</code>。</p><p>每组上台展示 <code>7 min</code>，质疑提问时间 <code>5 min</code>（3-4个问题）</p><p>在一个线上会议室，公开答辩，即将展示的选手将会得到提醒，轮到展示时直接申请共享屏幕即可</p><p>​    <strong>决赛成绩总分为10分。导师不能评比自己分区作品，其余导师评分去最高去最低取均值，占80％。被淘汰的队伍可以为自己心仪的队伍投票，每队得票数除总淘汰队伍数目，该部分占20％。成绩保留留两位小数。</strong></p><p>投票方式：</p><p><code>（暂定）主办方将提供仓库地址列表 选手可以给心仪的项目star作为投票</code></p><p><code>5 min</code> 评委开会做最后调整，同时进行投票。</p><p><code>5 min</code> 进行票务整理计算结果。</p><h3 id="评分细则"><a href="#评分细则" class="headerlink" title="评分细则"></a>评分细则</h3><h4 id="项目创意（40-）"><a href="#项目创意（40-）" class="headerlink" title="项目创意（40%）"></a>项目创意（<code>40%</code>）</h4><p>此项指项目对其应用领域的创新性（如UI/UX 独创性、微创新等），最低分数为10分，最高分为10分。</p><p>此部分细节由评委协商一致再定细则，可根据实现状况优劣可酌情调整，成绩精确至整数位。</p><ul><li>极富创新性，令人耳目一新—— <code>30-40</code> 分；</li><li>较有创新性，得到评委认同—— <code>20- 30</code> 分；</li><li>创新性一般，没有太多新意—— <code>10- 20</code> 分。</li></ul><h5 id="评分参考"><a href="#评分参考" class="headerlink" title="评分参考"></a>评分参考</h5><ul><li>Does the project create a new category of product or service?<br>项目是否创建了新型的产品或服务？</li><li>Does the project clearly and meaningfully innovate beyond existing products or services?<br>项目是否比现有产品或服务有清晰而且有价值的创新？</li><li>Does the project include innovations in user experience?<br>项目是否包括用户体验方面的创新？  </li></ul><p>此项也可以安排<code>10</code>分以内的特殊加分。</p><h4 id="专业难度（30-）"><a href="#专业难度（30-）" class="headerlink" title="专业难度（30%）"></a>专业难度（<code>30%</code>）</h4><p>此项指项目实现的技术难度。对于每一个顺利完成并提交的作品，最低分数为15分，最高分为30分。</p><p>此部分细节由评委协商一致再定细则，可根据实现状况优劣可酌情调整，成绩精确至整数位。</p><ul><li><p>实现非常困难—— <code>25 - 30</code> 分；</p></li><li><p>实现难度较大—— <code>20- 25</code> 分；</p></li><li><p>实现难度一般—— <code>15- 20</code> 分。</p></li></ul><p>此外，程序架构清晰，项目各部分正确耦合也是评判的重要条件。</p><h5 id="评分参考-1"><a href="#评分参考-1" class="headerlink" title="评分参考"></a>评分参考</h5><ul><li><p>Does the project make effective and appropriate use of the major features of its chosen platform(s)? Were there significant platform features or even platforms the project could have benefitted from but failed to utilize?<br>该项目是否有效和适当地使用其所选平台的主要功能？是否有重要的平台功能或甚至平台的项目可以受益，但未能利用？ </p></li><li><p>Does the team adequately address how the needs of all users with regards to gender, ethnicity, disability segment, or other diverse characteristics were considered to make their project inclusive and accessible? (10 points) •</p><p>团队是否充分考虑了所有用户在性别，种族，残疾人群或其他不同特征方面的需求，他们的项目具有兼容性和可访问性？</p></li><li><p>Has the project been tested for accessibility to ensure that it is usable by everyone? </p><p>项目是否已完成了可访问性测试，确保每个人都可以使用它？</p></li><li><p>Does the project include innovations in technical design and/or implementation?</p><p>项目是否包括技术设计和 /或实施方面的创新？</p></li></ul><h4 id="商业价值（20-）"><a href="#商业价值（20-）" class="headerlink" title="商业价值（20%）"></a>商业价值（<code>20%</code>）</h4><p>项目在市场上的商业预估价值（具体为能否商业化，能否对已有市场进行增益/轮换，有无未来应用潜力等）满分20分</p><h5 id="评分参考-2"><a href="#评分参考-2" class="headerlink" title="评分参考"></a>评分参考</h5><ul><li><p>Does the project have a clear target market or audience?<br>项目是否有明确的目标市场或受众？</p></li><li><p>Does the project address a clear need problem or opportunity and is the solution clearly?<br>项目是否针对明确的需求、问题或机会，是否清楚地解释了解决方案？</p></li><li><p>Does the team have a credible plan for getting their project to market in terms of business model any required partnerships, or other factors?</p><p>团队是否拥有一个完善的计划和业务模式，以将他们的项目推广到市场？有哪些必须的合作伙伴与其他因素？</p></li><li><p>Does the project have a reasonable chance of success in its appropriate market given the team s existing plan? </p><p>根据团队现有的项目计划，项目在相关市场是否有合理机会赢得市场？</p></li></ul><h4 id="展示风采（10-）"><a href="#展示风采（10-）" class="headerlink" title="展示风采（10%）"></a>展示风采（<code>10%</code>）</h4><p>队伍在展示过程中的表现（具体为团队协作程度，完成度，清晰表达能力，表现力等），满分10分。</p><ul><li><p>Does the team express their idea clearly and confidently in their presentation?</p><p>团队是否在他们的答辩中清晰且自信地表达他们的想法？</p></li><li><p>Do the members of the team negotiate with each other adequately and efficiently?</p><p>团队成员间的合作是否充足且高效？</p></li><li><p>Does the team answer the questions from the judges well in their  presentation? </p><p>团队能否在他们的答辩中较好地回答评委的提问？</p></li></ul><h2 id="奖项设置"><a href="#奖项设置" class="headerlink" title="奖项设置"></a>奖项设置</h2><table><thead><tr><th>奖项</th><th>数量</th><th>奖品</th></tr></thead><tbody><tr><td>一等奖</td><td>1</td><td>IKBC C87红轴 * 4 + 奖金￥1500</td></tr><tr><td>二等奖</td><td>2</td><td>罗技鼠标M330 * 4 + 奖金￥200</td></tr><tr><td>三等奖</td><td>5</td><td>Hackathon2020定制U盘 * 4</td></tr></tbody></table>]]></content>
     
     <summary type="html">
     
@@ -64,6 +89,30 @@
     
       <category term="比赛信息" scheme="https://hackathon2020eastchina.github.io/categories/%E6%AF%94%E8%B5%9B%E4%BF%A1%E6%81%AF/"/>
     
+    
+  </entry>
+  
+  <entry>
+    <title>网站更新日志</title>
+    <link href="https://hackathon2020eastchina.github.io/2020/10/31/log/"/>
+    <id>https://hackathon2020eastchina.github.io/2020/10/31/log/</id>
+    <published>2020-10-31T03:11:11.000Z</published>
+    <updated>2020-11-21T15:35:39.723Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="持续更新中……"><a href="#持续更新中……" class="headerlink" title="持续更新中……"></a>持续更新中……</h1><h2 id="11月14日"><a href="#11月14日" class="headerlink" title="11月14日"></a>11月14日</h2><ul><li>GitHub Pages发布</li><li>比赛初步计划公布</li></ul><h2 id="11月16日"><a href="#11月16日" class="headerlink" title="11月16日"></a>11月16日</h2><ul><li>报名链接发布</li></ul><h2 id="11月21日"><a href="#11月21日" class="headerlink" title="11月21日"></a>11月21日</h2><ul><li>比赛赛题发布</li><li>比赛细节计划更新</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;持续更新中……&quot;&gt;&lt;a href=&quot;#持续更新中……&quot; class=&quot;headerlink&quot; title=&quot;持续更新中……&quot;&gt;&lt;/a&gt;持续更新中……&lt;/h1&gt;&lt;h2 id=&quot;11月14日&quot;&gt;&lt;a href=&quot;#11月14日&quot; class=&quot;headerlink&quot; 
+      
+    
+    </summary>
+    
+    
+    
+      <category term="网站信息" scheme="https://hackathon2020eastchina.github.io/tags/%E7%BD%91%E7%AB%99%E4%BF%A1%E6%81%AF/"/>
     
   </entry>
   
