@@ -4,16 +4,16 @@
     <title>比赛计划</title>
     <url>/2020/11/01/plan/</url>
     <content><![CDATA[<p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/post.png" alt="post"></p>
-<h2 id="赛题"><a href="#赛题" class="headerlink" title="赛题"></a>赛题</h2><p>已经发布。请查看以下链接：</p>
+<h1 id="🏗-赛题"><a href="#🏗-赛题" class="headerlink" title="🏗 赛题"></a>🏗 赛题</h1><p>已经发布。请查看以下链接：</p>
 <p><a href="https://hackathon2020eastchina.top/2020/11/21/themeRelease/" target="_blank" rel="noopener">https://hackathon2020eastchina.top/2020/11/21/themeRelease/</a></p>
-<h3 id="比赛日程"><a href="#比赛日程" class="headerlink" title="比赛日程"></a>比赛日程</h3><h4 id="赛制详情"><a href="#赛制详情" class="headerlink" title="赛制详情"></a>赛制详情</h4><ul>
+<h1 id="📅​-赛制详情"><a href="#📅​-赛制详情" class="headerlink" title="📅​ 赛制详情"></a>📅​ 赛制详情</h1><ul>
 <li>队伍规模：每队3-4人</li>
 <li>分区情况：抽签分为五组</li>
 </ul>
 <p>​    参赛队伍将完成24小时不间断的项目开发。工作坊中我们将会安排相关导师进行技术指导、初审和复审。</p>
 <p>​    赛末通过抽签分成五组，各组限时4分钟展示以及3分钟Q&amp;A时间，然后将由导师进行评审，最终每组将会有两支队伍出线，参加最终的决赛评审。</p>
 <p>​    出线队伍将在总决赛中轮流线上答辩，每队限时7分钟展示和5分钟Q&amp;A时间；未晋级的队伍可以给晋级的队伍投票。</p>
-<h4 id="比赛日程-1"><a href="#比赛日程-1" class="headerlink" title="比赛日程"></a>比赛日程</h4><table>
+<h4 id="📆-比赛日程"><a href="#📆-比赛日程" class="headerlink" title="📆 比赛日程"></a>📆 比赛日程</h4><table>
 <thead>
 <tr>
 <th align="center">时间</th>
@@ -57,18 +57,18 @@
 <td align="center">颁奖仪式与闭幕式</td>
 </tr>
 </tbody></table>
-<h3 id="评分与答辩"><a href="#评分与答辩" class="headerlink" title="评分与答辩"></a>评分与答辩</h3><p>初审与复审导师评分标准一致</p>
+<h1 id="🏆-评分与答辩"><a href="#🏆-评分与答辩" class="headerlink" title="🏆 评分与答辩"></a>🏆 评分与答辩</h1><p>初审与复审导师评分标准一致</p>
 <h4 id="初审（12-40-14-00）"><a href="#初审（12-40-14-00）" class="headerlink" title="初审（12:40-14:00）"></a>初审（12:40-14:00）</h4><p>分组答辩 每组展示<code>4min</code> 质询提问时间 <code>3min</code></p>
 <p>每组一个线上会议室，公开答辩，其他选手可以选择去不同的组参观，即将展示的选手会得到提醒，共享屏幕即可开始答辩，建议选手提前测试好设备（无论是电脑还是手机端），确保能展示产品效果</p>
 <h4 id="复审（14-30-17-00）"><a href="#复审（14-30-17-00）" class="headerlink" title="复审（14:30-17:00）"></a>复审（14:30-17:00）</h4><p>总时长 <code>2.5h</code>。</p>
 <p>每组上台展示 <code>7 min</code>，质疑提问时间 <code>5 min</code>（3-4个问题）</p>
 <p>在一个线上会议室，公开答辩，即将展示的选手将会得到提醒，轮到展示时直接申请共享屏幕即可</p>
-<p>​    <strong>决赛成绩总分为10分。导师不能评比自己分区作品，其余导师评分去最高去最低取均值，占80％。被淘汰的队伍可以为自己心仪的队伍投票，每队得票数除总淘汰队伍数目，该部分占20％。成绩保留留两位小数。</strong></p>
+<p><strong>决赛成绩总分为10分。导师不能评比自己分区作品，其余导师评分去最高去最低取均值，占80％。被淘汰的队伍可以为自己心仪的队伍投票，每队得票数除总淘汰队伍数目，该部分占20％。成绩保留留两位小数。</strong></p>
 <p>投票方式：</p>
-<p><code>（暂定）主办方将提供仓库地址列表 选手可以给心仪的项目star作为投票</code></p>
+<p><code>20min</code>主办方将提供仓库地址列表 选手可以给心仪的项目star作为投票</p>
 <p><code>5 min</code> 评委开会做最后调整，同时进行投票。</p>
 <p><code>5 min</code> 进行票务整理计算结果。</p>
-<h3 id="评分细则"><a href="#评分细则" class="headerlink" title="评分细则"></a>评分细则</h3><h4 id="项目创意（40-）"><a href="#项目创意（40-）" class="headerlink" title="项目创意（40%）"></a>项目创意（<code>40%</code>）</h4><p>此项指项目对其应用领域的创新性（如UI/UX 独创性、微创新等），最低分数为10分，最高分为10分。</p>
+<h2 id="👑-评分细则"><a href="#👑-评分细则" class="headerlink" title="👑 评分细则"></a>👑 评分细则</h2><h4 id="项目创意（40-）"><a href="#项目创意（40-）" class="headerlink" title="项目创意（40%）"></a>项目创意（<code>40%</code>）</h4><p>此项指项目对其应用领域的创新性（如UI/UX 独创性、微创新等），最低分数为10分，最高分为10分。</p>
 <p>此部分细节由评委协商一致再定细则，可根据实现状况优劣可酌情调整，成绩精确至整数位。</p>
 <ul>
 <li>极富创新性，令人耳目一新—— <code>30-40</code> 分；</li>
@@ -130,7 +130,7 @@
 <p>团队能否在他们的答辩中较好地回答评委的提问？</p>
 </li>
 </ul>
-<h2 id="奖项设置"><a href="#奖项设置" class="headerlink" title="奖项设置"></a>奖项设置</h2><table>
+<h1 id="🥇-奖项设置"><a href="#🥇-奖项设置" class="headerlink" title="🥇 奖项设置"></a>🥇 奖项设置</h1><table>
 <thead>
 <tr>
 <th>奖项</th>
@@ -162,12 +162,12 @@
   <entry>
     <title>来！2020华东Hackathon大赛</title>
     <url>/2020/11/16/register/</url>
-    <content><![CDATA[<h1 id="本届大赛的报名现已开始！"><a href="#本届大赛的报名现已开始！" class="headerlink" title="本届大赛的报名现已开始！"></a>本届大赛的报名现已开始！</h1><blockquote>
+    <content><![CDATA[<h1 id="🎏-本届大赛的报名现已开始！"><a href="#🎏-本届大赛的报名现已开始！" class="headerlink" title="🎏 本届大赛的报名现已开始！"></a>🎏 本届大赛的报名现已开始！</h1><blockquote>
 <p>详情请查看下面的推送。</p>
 </blockquote>
 <p><a href="https://mp.weixin.qq.com/s/NFAUAX5-mzhHJPSbefkvIQ" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/NFAUAX5-mzhHJPSbefkvIQ</a></p>
 <p>你是否也曾脑海中一闪而过一个个有趣甚至是疯狂的想法，却没法去实现。来吧，在这场24小时的“马拉松”里，你所要做的不是挑战自己的体力，而是用指尖敲下你曾没能去实现的点子。<br>灵感地迸发，思想地碰撞，知识地较量……</p>
-<h2 id="Welcome-to-Hackathon-华东！"><a href="#Welcome-to-Hackathon-华东！" class="headerlink" title="Welcome to Hackathon@华东！"></a>Welcome to Hackathon@华东！</h2><blockquote>
+<h2 id="🌈-Welcome-to-Hackathon-华东！"><a href="#🌈-Welcome-to-Hackathon-华东！" class="headerlink" title="🌈 Welcome to Hackathon@华东！"></a>🌈 Welcome to Hackathon@华东！</h2><blockquote>
 <p>考虑到疫情影响，今年大赛采用全新的线上模式。</p>
 </blockquote>
 <p> 本次 Hackathon 活动由南京大学和微软亚洲研究院主办、由微软开发者关系部门、东南大学、南京航空航天大学、南京理工大学、苏州大学、山东大学、同济大学和华东师范大学，复旦大学联合承办的创客马拉松大赛“Hackathon 华东@2020”。   </p>
@@ -181,7 +181,7 @@
 <li><p>利用现有资源进行项目“Demo”制作</p>
 </li>
 </ul>
-<h3 id="丰厚的奖品"><a href="#丰厚的奖品" class="headerlink" title="丰厚的奖品"></a>丰厚的奖品</h3><p>一等奖（一队）：总共1500奖金+ikbc c87红轴键盘*4</p>
+<h3 id="🎁​-丰厚的奖品"><a href="#🎁​-丰厚的奖品" class="headerlink" title="🎁​ 丰厚的奖品"></a>🎁​ 丰厚的奖品</h3><p>一等奖（一队）：总共1500奖金+ikbc c87红轴键盘*4</p>
 <p>二等奖（两队）：总共400奖金+罗技鼠标m330*4</p>
 <p>三等奖（五队）：定制刻字的u盘*4</p>
 <p>另外所有参赛选手都会通过邮寄获得参赛纪念品和小零食哦</p>
@@ -193,9 +193,25 @@
 <p>主题：<code>Hack For Efficiency</code></p>
 <p><strong>目前只有一个人的小伙伴也不用担心哦，扫码加入参赛群即可找到志同道合的搭档啦</strong>！</p>
 <p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/qqg.png" alt="qqQRCode"></p>
-<h2 id="报名链接"><a href="#报名链接" class="headerlink" title="报名链接"></a>报名链接</h2><p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=pOutbSzcpEiz8KuV1mGJ2lTffgfiwe1GhckczTDebXVUNldVOFlCNTJYRTlPM08ySTJKVjg4UEg4RC4u&amp;qrcode=true" target="_blank" rel="noopener">https://forms.office.com/Pages/ResponsePage.aspx?id=pOutbSzcpEiz8KuV1mGJ2lTffgfiwe1GhckczTDebXVUNldVOFlCNTJYRTlPM08ySTJKVjg4UEg4RC4u&amp;qrcode=true</a></p>
-<p>你也可以扫描下方二维码进入上述链接。</p>
-<p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/register.png" alt="register"></p>
+<h2 id="🔗-报名链接"><a href="#🔗-报名链接" class="headerlink" title="🔗 报名链接"></a>🔗 报名链接</h2><blockquote>
+<p>以下两个链接都要填写。</p>
+</blockquote>
+<h3 id="个人报名"><a href="#个人报名" class="headerlink" title="个人报名"></a>个人报名</h3><table>
+<thead>
+<tr>
+<th>个人报名</th>
+<th>团队报名</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=pOutbSzcpEiz8KuV1mGJ2lTffgfiwe1GhckczTDebXVUNldVOFlCNTJYRTlPM08ySTJKVjg4UEg4RC4u&amp;qrcode=true" target="_blank" rel="noopener">https://forms.office.com/Pages/ResponsePage.aspx?id=pOutbSzcpEiz8KuV1mGJ2lTffgfiwe1GhckczTDebXVUNldVOFlCNTJYRTlPM08ySTJKVjg4UEg4RC4u&amp;qrcode=true</a></td>
+<td><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAADVOd2xURFlFNkxIWktDNzkyU0dDVjdLVU9YWkU3OS4u" target="_blank" rel="noopener">https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAADVOd2xURFlFNkxIWktDNzkyU0dDVjdLVU9YWkU3OS4u</a></td>
+</tr>
+<tr>
+<td><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/person.png" alt="register"></td>
+<td><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/Team.png" alt=""></td>
+</tr>
+</tbody></table>
 ]]></content>
       <categories>
         <category>比赛信息</category>
@@ -204,18 +220,18 @@
   <entry>
     <title>赛题发布啦！</title>
     <url>/2020/11/21/themeRelease/</url>
-    <content><![CDATA[<h1 id="赛题"><a href="#赛题" class="headerlink" title="赛题"></a>赛题</h1><p>本次大赛的大主题为”Hack For Efficiency”，主题方向为“用数字化为抗疫提效”。</p>
-<p>众所周知，信息行业作为一个不直接产生价值而是靠赋能其他产业创造价值的行业，有着增能提效的天赋与使命。在新一轮数字化与智能化的浪潮中，突然杀出新冠疫情这一黑天鹅事件，扰乱了全球秩序。在抗击疫情的过程中，信息技术在协调、沟通、分析与辅助决策方面发挥了重要作用。这期间，既有传统idea的更进一步实现，也涌现着许多新的idea。</p>
+    <content><![CDATA[<h1 id="🏗-赛题"><a href="#🏗-赛题" class="headerlink" title="🏗 赛题"></a>🏗 赛题</h1><p>本次大赛的大主题为”Hack For Efficiency”，主题方向为“用数字化为抗疫提效”。</p>
+<p>众所周知，信息行业作为一个不直接产生价值而是靠赋能其他产业创造价值的行业，有着增能提效的天赋与使命。在新一轮数字化与智能化的浪潮中，突然杀出新冠疫情这一黑天鹅事件，扰乱了全球秩序。在抗击疫情的过程中，信息技术在协调、沟通、分析与辅助决策方面发挥了重要作用。</p>
 <p>这期间，既有传统idea的更进一步实现，也涌现着许多新的idea。不难发现，在疫情期间，金融机构利用信息技术提供更精确的金融服务，公共安全部门利用信息技术维持秩序，商业组织利用信息技术适应疫情下经济的新常态。信息产品可以是在原来工具上的改进（更好的收集表，更精确的筛选与诊断等），也可以是全新应用场景的构建（短视频、健康码与行程记录等业态创新等）。</p>
 <p>当然，这两者之间的界限并不是绝对的。例如，对视频会议的需求从未像今天这样庞大，远程会议的相关工具也有了极大的进步，随着越来越多的功能被集成，他们事实上正在构建着全方位的协作软件。例如，腾讯会议+腾讯QQ+腾讯文档，Teams与它所属的Office 365和钉钉，都成为了全场景远程办公的先行者与领导者。</p>
 <p>本次比赛中具体的idea提出与实现，就看各位选手们的创意与实力了。</p>
 <p>因而，本次大赛的主题是：</p>
 <blockquote>
 <h3 id="用数字化为抗疫提效"><a href="#用数字化为抗疫提效" class="headerlink" title="用数字化为抗疫提效"></a>用数字化为抗疫提效</h3></blockquote>
-<h2 id="彩蛋活动"><a href="#彩蛋活动" class="headerlink" title="彩蛋活动"></a>彩蛋活动</h2><p>我们鼓励选手们在开发过程中用照片或者视频记录下团队灵感火花迸发的高光时刻，也十分期待着将这些宝贵的瞬间分享给更多的人。</p>
+<h2 id="🥚-彩蛋活动"><a href="#🥚-彩蛋活动" class="headerlink" title="🥚 彩蛋活动"></a>🥚 彩蛋活动</h2><p>我们鼓励选手们在开发过程中用照片或者视频记录下团队灵感火花迸发的高光时刻，也十分期待着将这些宝贵的瞬间分享给更多的人。</p>
 <p>参赛团队可将照片或视频的<code>源文件</code>或<code>图床地址</code>发送至主办方指定邮箱 <a href="mailto:hackathon2020eastchina@outlook.com">hackathon2020eastchina@outlook.com</a>。</p>
 <p>主办方将会挑选部分照片在比赛官网进行展示，在等待评委评审的过程中，选手们可以给喜欢的照片投票，获得票数最高的一组将获得彩蛋小礼品。</p>
-<h3 id="要点"><a href="#要点" class="headerlink" title="要点"></a>要点</h3><ul>
+<h3 id="🎉-要点"><a href="#🎉-要点" class="headerlink" title="🎉 要点"></a>🎉 要点</h3><ul>
 <li><p>可提交活动照片/视频供展示；</p>
 </li>
 <li><p>提交源文件/图床地址均可，均发送到 <a href="mailto:hackathon2020eastchina@outlook.com">hackathon2020eastchina@outlook.com</a>；</p>
@@ -233,20 +249,116 @@
   <entry>
     <title>网站更新日志</title>
     <url>/2020/10/31/log/</url>
-    <content><![CDATA[<h1 id="持续更新中……"><a href="#持续更新中……" class="headerlink" title="持续更新中……"></a>持续更新中……</h1><h2 id="11月14日"><a href="#11月14日" class="headerlink" title="11月14日"></a>11月14日</h2><ul>
-<li>GitHub Pages发布</li>
-<li>比赛初步计划公布</li>
-</ul>
-<h2 id="11月16日"><a href="#11月16日" class="headerlink" title="11月16日"></a>11月16日</h2><ul>
-<li>报名链接发布</li>
+    <content><![CDATA[<h1 id="📩-持续更新中……"><a href="#📩-持续更新中……" class="headerlink" title="📩 持续更新中……"></a>📩 持续更新中……</h1><h2 id="11月25日"><a href="#11月25日" class="headerlink" title="11月25日"></a>11月25日</h2><ul>
+<li>技术手册发布</li>
+<li>Emoji！</li>
 </ul>
 <h2 id="11月21日"><a href="#11月21日" class="headerlink" title="11月21日"></a>11月21日</h2><ul>
 <li>比赛赛题发布</li>
 <li>比赛细节计划更新</li>
 </ul>
+<h2 id="11月16日"><a href="#11月16日" class="headerlink" title="11月16日"></a>11月16日</h2><ul>
+<li>报名链接发布</li>
+</ul>
+<h2 id="11月14日"><a href="#11月14日" class="headerlink" title="11月14日"></a>11月14日</h2><ul>
+<li>GitHub Pages发布</li>
+<li>比赛初步计划公布</li>
+</ul>
 ]]></content>
       <tags>
         <tag>网站信息</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>华东Hackathon2020 - 技术手册</title>
+    <url>/2020/11/24/commit/</url>
+    <content><![CDATA[<blockquote>
+<p>本文仍在持续更新中……</p>
+</blockquote>
+<h1 id="🧱开发-amp-提交流程"><a href="#🧱开发-amp-提交流程" class="headerlink" title="🧱开发 &amp; 提交流程"></a>🧱开发 &amp; 提交流程</h1><p>本次比赛的主办方强烈推荐参赛的各支队伍依托 <code>GitHub</code> 平台展开合作。当然，我们不能强制参赛队伍使用GitHub进行协作，但是最终的作品提交与评比则将统一依托GitHub进行。从开发到提交，参赛队伍需要涉及GitHub平台的流程大致如下：</p>
+<div class="mermaid">
+          graph TD
+开始参赛 --> A(建`GitHub`组织并将组员拉入___)
+A --> B(在该组织下为参赛项目新建一个仓库___)
+B --> D(比赛过程中库保持`private`___)
+D --> E(给添爬虫账号为`Member`___)
+E --> F(将该仓库的地址提交给组委会___)
+F --> G(进行开发并不断将进度推到你的仓库中___)
+G --> H(为最后一次提交打上名为`DONE`的`Tag`___)
+H --> C(将库设为`public`以供`star`投票___)
+C --> 完成作品提交
+          </div>
+
+
+
+<h2 id="🎚-参数"><a href="#🎚-参数" class="headerlink" title="🎚 参数"></a>🎚 参数</h2><table>
+<thead>
+<tr>
+<th>参数</th>
+<th>值</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>主办方爬虫<code>GitHub</code> 首页</td>
+<td><a href="https://github.com/Bot4Hackathon2020" target="_blank" rel="noopener">https://github.com/Bot4Hackathon2020</a></td>
+</tr>
+<tr>
+<td>项目地址提交收集表链接</td>
+<td><code>稍后放出</code></td>
+</tr>
+</tbody></table>
+<p>如果你已熟悉GitHub的操作流程，可以直接直接按照上面的流程进行开发与提交。</p>
+<p>如果你不熟悉，也没有关系，下面展示了一个Demo项目的提交流程。</p>
+<blockquote>
+<h3 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h3><p>廖雪峰的Git教程</p>
+<p><a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank" rel="noopener">https://www.liaoxuefeng.com/wiki/896043488029600</a></p>
+<p>给某个用户添加项目权限-GitHub官方文档</p>
+<p><a href="https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository" target="_blank" rel="noopener">https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository</a></p>
+<p>Tag和Release-GitHub官方文档</p>
+<p><a href="https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/managing-releases-in-a-repository" target="_blank" rel="noopener">https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/managing-releases-in-a-repository</a></p>
+</blockquote>
+<h1 id="🧀-Tips"><a href="#🧀-Tips" class="headerlink" title="🧀 Tips"></a>🧀 Tips</h1><h2 id="🖋-需求分析与开发"><a href="#🖋-需求分析与开发" class="headerlink" title="🖋 需求分析与开发"></a>🖋 需求分析与开发</h2><p>需求分析到实现开发的过程，大致是：</p>
+<ol>
+<li>确定要改变的现状/要解决的问题，并确定一个可估量的指标，用于评价最后的成果</li>
+<li>分析清楚实现过程中需要经历的几个宏观环节</li>
+<li>细化各环节并加入技术解决方案</li>
+<li>分工并开始实现</li>
+</ol>
+<p>上面四个步骤推进起来都会有困难，对于最开始确定需求，可以用<code>5w1h</code>方法：<code>什么时间(when)</code>、<code>什么地点(where)</code> 、<code>什么人(who)</code>、<code>做什么(what)</code>以及<code>为什么做(why)</code>、<code>如何去做(how)</code>；在分析宏观环节时，可以按照状态转化的思路去分析，什么时候事物的状态变了，那有可能就进入了下一个环节；细化及加入解决方案的过程中，一定要考虑实现的难度、有没有现成的解决方案（轮子）。</p>
+<p>例如，目前，在抗疫的信息化上，已经有很多成熟的应用被开发出来并得到了广泛使用。想要进一步用数字化为抗疫提效，或许可以从以下方向继续挖掘新的需求：</p>
+<ul>
+<li>发掘一个新的领域，创造新的蛋糕。</li>
+<li>选择一个垂直领域，着重于细分场景下的提效，如学校或家庭内的高度信息化/自动化。</li>
+<li>将现有的解决方案整合起来。参考开发中比较流行的持续集成概念，可以尝试构建一个一站式平台，或是一个全自动化的流程管道，等等。</li>
+</ul>
+<blockquote>
+<h3 id="参考链接-1"><a href="#参考链接-1" class="headerlink" title="参考链接"></a>参考链接</h3><p><a href="http://www.uml.org.cn/RequirementProject/201005285.asp" target="_blank" rel="noopener">需求入门： 需求工程＝需求开发＋需求管理 (uml.org.cn)</a></p>
+</blockquote>
+<h2 id="🎟-开发TIPS"><a href="#🎟-开发TIPS" class="headerlink" title="🎟 开发TIPS"></a>🎟 开发TIPS</h2><ul>
+<li><p>善用协作工具，如使用 Git 管理项目，使用 VS Live Share 以合作编辑与讨论，减少多人合作带来的额外沟通开销；</p>
+</li>
+<li><p>建议有灵感与设计后首先制作一份 Prototype，用以验证想法，同时也能避免到截止时间时无可用作品可交的窘况。</p>
+</li>
+<li><p>相比于良好的技术实践，请更注重 Demo 的展示。好的架构与代码都是可以之后通过重构等方法迭代优化的。</p>
+</li>
+</ul>
+<div class="mermaid">
+          stateDiagram
+[*] --> Still
+Still --> [*]
+Still --> Code
+Code --> Still
+Code --> Crash
+Crash --> [*]
+          </div>
+
+
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">stateDiagram</span><br><span class="line">[*] --&gt; Still</span><br><span class="line">Still --&gt; [*]</span><br><span class="line">Still --&gt; Code</span><br><span class="line">Code --&gt; Still</span><br><span class="line">Code --&gt; Crash</span><br><span class="line">Crash --&gt; [*]</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>比赛信息</category>
+      </categories>
   </entry>
 </search>
