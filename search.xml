@@ -241,6 +241,10 @@
 <li><p>展示与投票时间在<code>11.29</code> <code>17:00~17:30</code> ，即等待比赛结果的时间段。</p>
 </li>
 </ul>
+<h1 id="最后，还是一些碎碎念"><a href="#最后，还是一些碎碎念" class="headerlink" title="最后，还是一些碎碎念"></a><del>最后，还是一些碎碎念</del></h1><p>&gt; ddl不要记错</p>
+<p>&gt; 线上答辩前请一定要提前<strong>调试好设备</strong>！</p>
+<p>&gt; <strong>友谊第一，比赛第二</strong>。希望大家都能通过这次Hackthon 结识到志同道合的伙伴，同时提升自己的实践能力。</p>
+<p><strong>祝每个人玩的开心！</strong></p>
 ]]></content>
       <categories>
         <category>比赛信息</category>
@@ -276,21 +280,15 @@
 <p>本文仍在持续更新中……</p>
 </blockquote>
 <h1 id="🧱开发-amp-提交流程"><a href="#🧱开发-amp-提交流程" class="headerlink" title="🧱开发 &amp; 提交流程"></a>🧱开发 &amp; 提交流程</h1><p>本次比赛的主办方强烈推荐参赛的各支队伍依托 <code>GitHub</code> 平台展开合作。当然，我们不能强制参赛队伍使用GitHub进行协作，但是最终的作品提交与评比则将统一依托GitHub进行。从开发到提交，参赛队伍需要涉及GitHub平台的流程大致如下：</p>
-<div class="mermaid">
-          graph TD
-开始参赛 --> A(建`GitHub`组织并将组员拉入___)
-A --> B(在该组织下为参赛项目新建一个仓库___)
-B --> D(比赛过程中库保持`private`___)
-D --> E(给添爬虫账号为`Member`___)
-E --> F(将该仓库的地址提交给组委会___)
-F --> G(进行开发并不断将进度推到您的仓库中___)
-G --> H(为最后一次提交打上名为`DONE`的`Tag`___)
-H --> C(将库设为`public`以供`star`投票___)
-C --> 完成作品提交
-          </div>
-
-
-
+<ol>
+<li>建<code>GitHub</code>组织并将组员拉入；</li>
+<li>在该组织下为参赛项目新建一个<code>private</code>仓库且比赛过程中库保持<code>private</code>；</li>
+<li>给添爬虫账号为<code>Member</code>；</li>
+<li>将该仓库的地址提交给组委会；</li>
+<li>进行开发并不断将进度推到您的仓库中；</li>
+<li>为最后一次提交打上名为<code>DONE</code>的<code>Tag</code>以完成提交；</li>
+<li>将库设为<code>public</code>以供<code>star</code>投票；</li>
+</ol>
 <h2 id="🎚-参数"><a href="#🎚-参数" class="headerlink" title="🎚 参数"></a>🎚 参数</h2><table>
 <thead>
 <tr>
