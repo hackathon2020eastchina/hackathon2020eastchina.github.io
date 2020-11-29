@@ -495,7 +495,7 @@ Crash --> [*]
       </categories>
   </entry>
   <entry>
-    <title>11月28日-比赛首日</title>
+    <title>11月28日-开幕式与比赛首日</title>
     <url>/2020/11/28/1stDay/</url>
     <content><![CDATA[<p>今天是比赛正式开始后的第一天。</p>
 <p>在上午10点，我们通过线上直播的方式，向所有参赛选手直播了我们的开幕式。南京大学微软学生俱乐部主席韩禧发表了开幕式的讲话，并简要地介绍了比赛提交平台相关规则等。微软亚洲研究院的陈昊先生给选手们带来题为《微软亚洲研究院：求索不已》的主题演讲，旨在引导参赛选手们更好地了解MSRA。此后，同样是来自微软亚洲研究院的秦婷婷女士给我们带来了关于微软AI教育开源社区的相关介绍。</p>
@@ -514,6 +514,165 @@ Crash --> [*]
 <h2 id="未完待续……"><a href="#未完待续……" class="headerlink" title="未完待续……"></a>未完待续……</h2>]]></content>
       <categories>
         <category>比赛信息</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>11月29日-比赛次日与闭幕式</title>
+    <url>/2020/11/29/2ndDay/</url>
+    <content><![CDATA[<p>在开发的过程中，群里始终保持相对的安静。</p>
+<p>但在比赛结束之前，有部分团队在提交时遇到了一些小小的问题，但经过选手和工作人员的共同努力，这些困难都被克服了。</p>
+<p>12:40，初赛答辩正式开始。我们将参赛队伍分为五组，每组筛选出两支队伍进入决赛。进入决赛的队伍的名单如下：</p>
+<p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/finalEntry.png" alt=""></p>
+<p>下午2:30，决赛答辩正式开始。</p>
+<p>经过10组选手激烈的角逐，我们最终决出了一二三等奖与照片彩蛋特别奖。</p>
+<table>
+<thead>
+<tr>
+<th>奖项</th>
+<th>队伍</th>
+<th>项目名称与对应GitHub地址</th>
+<th>奖品</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>一等奖</td>
+<td>四暗刻</td>
+<td><a href="https://github.com/Four-concealed-triplets-hackathon/CyberEmbed" target="_blank" rel="noopener">CyberEmbed</a></td>
+<td>IKBC C87 红轴 * 4 + 奖金￥1500</td>
+</tr>
+<tr>
+<td>二等奖</td>
+<td>三神带一坑</td>
+<td><a href="https://statistic.hackathon2020eastchina.top/team/%E5%95%AA%E7%9A%84%E4%B8%80%E4%B8%8B%E5%B0%B1%E6%8A%A5%E5%90%8D%E4%BA%86%E5%BE%88%E5%BF%AB%E5%95%8A" target="_blank" rel="noopener">Face Tracking</a></td>
+<td>罗技鼠标 M330 * 4 + 奖金￥200</td>
+</tr>
+<tr>
+<td>二等奖</td>
+<td>需求与商业模式创新</td>
+<td><a href="https://github.com/ThreeGodAndAGreenMan/hackathon2020.github.io" target="_blank" rel="noopener">hackathon2020.github.io</a></td>
+<td>罗技鼠标 M330 * 4 + 奖金￥200</td>
+</tr>
+<tr>
+<td>三等奖</td>
+<td>Homework is Stupid</td>
+<td><a href="https://github.com/homework-is-stupid/No-touch-identification" target="_blank" rel="noopener">WearMask!—智能口罩检测门禁系统</a></td>
+<td>Hackathon2020 定制 U 盘 * 4</td>
+</tr>
+<tr>
+<td>三等奖</td>
+<td>深夜食堂</td>
+<td><a href="https://github.com/pinxv" target="_blank" rel="noopener">可视化冷链溯源平台</a></td>
+<td>Hackathon2020 定制 U 盘 * 4</td>
+</tr>
+<tr>
+<td>三等奖</td>
+<td>冯虚御风</td>
+<td><a href="https://statistic.hackathon2020eastchina.top/team/%E5%95%AA%E7%9A%84%E4%B8%80%E4%B8%8B%E5%B0%B1%E6%8A%A5%E5%90%8D%E4%BA%86%E5%BE%88%E5%BF%AB%E5%95%8A" target="_blank" rel="noopener">Face Tracking</a></td>
+<td>Hackathon2020 定制 U 盘 * 4</td>
+</tr>
+<tr>
+<td>三等奖</td>
+<td>bilibili德川家康薛定谔保留</td>
+<td><a href="https://github.com/Terminator-caserta-leo-xxh/hacker" target="_blank" rel="noopener">一个可可爱爱没有脑袋的食堂预约系统</a></td>
+<td>Hackathon2020 定制 U 盘 * 4</td>
+</tr>
+<tr>
+<td>三等奖</td>
+<td>勇夺鼓励奖队</td>
+<td><a href="https://github.com/Wmznb/challengeproj" target="_blank" rel="noopener">“不服来战”微信小程序</a></td>
+<td>Hackathon2020 定制 U 盘 * 4</td>
+</tr>
+<tr>
+<td>照片彩蛋</td>
+<td>啪的一下就报名了很快啊</td>
+<td><a href="https://statistic.hackathon2020eastchina.top/team/%E5%95%AA%E7%9A%84%E4%B8%80%E4%B8%8B%E5%B0%B1%E6%8A%A5%E5%90%8D%E4%BA%86%E5%BE%88%E5%BF%AB%E5%95%8A" target="_blank" rel="noopener">Face Tracking</a></td>
+<td>(陶瓷杯+微软帆布袋) * 4</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>比赛信息</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>获奖名单</title>
+    <url>/2020/11/29/awards/</url>
+    <content><![CDATA[<h1 id="获奖名单"><a href="#获奖名单" class="headerlink" title="获奖名单"></a>获奖名单</h1><h2 id="一等奖"><a href="#一等奖" class="headerlink" title="一等奖"></a>一等奖</h2><p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/img/image-20201129192737558.png" alt="image-20201129192737558"></p>
+<h2 id="二等奖"><a href="#二等奖" class="headerlink" title="二等奖"></a>二等奖</h2><p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/img/image-20201129192818311.png" alt="image-20201129192818311"></p>
+<h2 id="三等奖"><a href="#三等奖" class="headerlink" title="三等奖"></a>三等奖</h2><p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/img/image-20201129192904628.png" alt="image-20201129192904628"></p>
+<h2 id="照片彩蛋奖"><a href="#照片彩蛋奖" class="headerlink" title="照片彩蛋奖"></a>照片彩蛋奖</h2><p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/img/Hackathon1.jpg" alt=""></p>
+<p>以上图片来自 <code>啪的一下就报名了很快啊</code> 队。</p>
+<h3 id="具体名单"><a href="#具体名单" class="headerlink" title="具体名单"></a>具体名单</h3><table>
+<thead>
+<tr>
+<th>奖项</th>
+<th>队伍</th>
+<th>项目名称与对应GitHub地址</th>
+<th>奖品</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>一等奖</td>
+<td>四暗刻</td>
+<td><a href="https://github.com/Four-concealed-triplets-hackathon/CyberEmbed" target="_blank" rel="noopener">CyberEmbed</a></td>
+<td>IKBC C87 红轴 * 4 + 奖金￥1500</td>
+</tr>
+<tr>
+<td>二等奖</td>
+<td>三神带一坑</td>
+<td><a href="https://statistic.hackathon2020eastchina.top/team/%E5%95%AA%E7%9A%84%E4%B8%80%E4%B8%8B%E5%B0%B1%E6%8A%A5%E5%90%8D%E4%BA%86%E5%BE%88%E5%BF%AB%E5%95%8A" target="_blank" rel="noopener">Face Tracking</a></td>
+<td>罗技鼠标 M330 * 4 + 奖金￥200</td>
+</tr>
+<tr>
+<td>二等奖</td>
+<td>需求与商业模式创新</td>
+<td><a href="https://github.com/ThreeGodAndAGreenMan/hackathon2020.github.io" target="_blank" rel="noopener">hackathon2020.github.io</a></td>
+<td>罗技鼠标 M330 * 4 + 奖金￥200</td>
+</tr>
+<tr>
+<td>三等奖</td>
+<td>Homework is Stupid</td>
+<td><a href="https://github.com/homework-is-stupid/No-touch-identification" target="_blank" rel="noopener">WearMask!—智能口罩检测门禁系统</a></td>
+<td>Hackathon2020 定制 U 盘 * 4</td>
+</tr>
+<tr>
+<td>三等奖</td>
+<td>深夜食堂</td>
+<td><a href="https://github.com/pinxv" target="_blank" rel="noopener">可视化冷链溯源平台</a></td>
+<td>Hackathon2020 定制 U 盘 * 4</td>
+</tr>
+<tr>
+<td>三等奖</td>
+<td>冯虚御风</td>
+<td><a href="https://statistic.hackathon2020eastchina.top/team/%E5%95%AA%E7%9A%84%E4%B8%80%E4%B8%8B%E5%B0%B1%E6%8A%A5%E5%90%8D%E4%BA%86%E5%BE%88%E5%BF%AB%E5%95%8A" target="_blank" rel="noopener">Face Tracking</a></td>
+<td>Hackathon2020 定制 U 盘 * 4</td>
+</tr>
+<tr>
+<td>三等奖</td>
+<td>bilibili德川家康薛定谔保留</td>
+<td><a href="https://github.com/Terminator-caserta-leo-xxh/hacker" target="_blank" rel="noopener">一个可可爱爱没有脑袋的食堂预约系统</a></td>
+<td>Hackathon2020 定制 U 盘 * 4</td>
+</tr>
+<tr>
+<td>三等奖</td>
+<td>勇夺鼓励奖队</td>
+<td><a href="https://github.com/Wmznb/challengeproj" target="_blank" rel="noopener">“不服来战”微信小程序</a></td>
+<td>Hackathon2020 定制 U 盘 * 4</td>
+</tr>
+<tr>
+<td>照片彩蛋</td>
+<td>啪的一下就报名了很快啊</td>
+<td><a href="https://statistic.hackathon2020eastchina.top/team/%E5%95%AA%E7%9A%84%E4%B8%80%E4%B8%8B%E5%B0%B1%E6%8A%A5%E5%90%8D%E4%BA%86%E5%BE%88%E5%BF%AB%E5%95%8A" target="_blank" rel="noopener">Face Tracking</a></td>
+<td>(陶瓷杯+微软帆布袋) * 4</td>
+</tr>
+</tbody></table>
+<p>如果想查看所有参赛队伍的作品，请访问</p>
+<p><a href="https://statistic.hackathon2020eastchina.top/team" target="_blank" rel="noopener">https://statistic.hackathon2020eastchina.top/team</a></p>
+<p>点击队伍详情，查看对应项目的GitHub开源地址。</p>
+<h2 id="友谊第一，比赛第二。"><a href="#友谊第一，比赛第二。" class="headerlink" title="友谊第一，比赛第二。"></a>友谊第一，比赛第二。</h2><p>所有参加本次比赛的选手，都在参赛的过程中完成了一次将脑中的想法变现的过程。这样的过程本身就是一次难得的体验和一次美好的回忆。</p>
+]]></content>
+      <categories>
+        <category>奖项相关</category>
       </categories>
   </entry>
 </search>
