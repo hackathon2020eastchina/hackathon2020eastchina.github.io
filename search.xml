@@ -603,13 +603,82 @@ Crash --> [*]
       </categories>
   </entry>
   <entry>
-    <title>获奖名单</title>
+    <title>获奖名单与获奖感言</title>
     <url>/2020/11/29/awards/</url>
-    <content><![CDATA[<h1 id="获奖名单"><a href="#获奖名单" class="headerlink" title="获奖名单"></a>获奖名单</h1><h2 id="一等奖"><a href="#一等奖" class="headerlink" title="一等奖"></a>一等奖</h2><p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/img/image-20201129192737558.png" alt="image-20201129192737558"></p>
+    <content><![CDATA[<h1 id="获奖名单-amp-获奖感言"><a href="#获奖名单-amp-获奖感言" class="headerlink" title="获奖名单 &amp; 获奖感言"></a>获奖名单 &amp; 获奖感言</h1><h2 id="一等奖"><a href="#一等奖" class="headerlink" title="一等奖"></a>一等奖</h2><p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/img/image-20201129192737558.png" alt="image-20201129192737558"></p>
+<h3 id="四暗刻队的获奖感言"><a href="#四暗刻队的获奖感言" class="headerlink" title="四暗刻队的获奖感言"></a><code>四暗刻</code>队的获奖感言</h3><blockquote>
+<blockquote>
+<p>为什么叫四暗刻？因为我们都是日麻玩家，平时的牌友，四暗刻是日本麻将中的满役，而且我们都还没和过。准备组队的时候正好在思考打麻将的事情，所以就选择了四暗刻作为队名。</p>
+</blockquote>
+<h4 id="项目灵感"><a href="#项目灵感" class="headerlink" title="项目灵感"></a>项目灵感</h4><blockquote>
+<p>本来我们在周四晚上讨论了一下，觉得可以做一个手机系统插件，能支持QQ微信的消息互传，后来论证了一下发现搞不定，就陷入了迷茫。星期五晚上依旧没有什么头绪，然后我打开手机里的<code>Spotify</code>，想起之前一直想分享歌到朋友圈但是没有定制的卡片（像网易云那样），只有单独的URL不太好看。于是就萌生了给<code>Spotify</code>做图片导出的想法，本来是想系统底层调用的，调研之后感觉做成<code>web</code>会是更简单的形式，于是我们的项目就这样开始了。</p>
+</blockquote>
+<h4 id="项目过程"><a href="#项目过程" class="headerlink" title="项目过程"></a>项目过程</h4><blockquote>
+<p>星期五晚上大概想好了技术栈之后完成了<code>Inital Commit</code>，大致确定了下分工然后大家就睡觉去了，星期六上午依然睡大觉，比赛正式开始之后开始正式的敏捷开发。下午完成了前后端的搭建和部署，因为好久没写web了所以中间踩了许多的坑，比如<code>http response</code>的解析死活搞不对，<code>Linux</code>和<code>Windows</code>下的路径解析不兼容，图片命名包含特殊字符等，部署之后去吃了个饭打了两盘麻将，缓解了一下烦躁心情。晚上主要是对知网，<code>Steam</code>的适配，本来想搞<code>Twitter</code>和<code>Spotify</code>的，技术方案都想好了，猛然发现服务器在腾讯云上，搞了也白搞，GG。最困难的部分是海报设计的部分，将我们硬生生拖到了凌晨5点才睡觉，初版的海报实在是丑到不忍直视，我们中也没有学过设计的，全部手足无措，后来只好慢慢改，一个一个像素地调位置，行对齐，换字体，向其原网页风格进行靠近，虽然最终的海报也不是很好看，但也算是有所进步了。</p>
+</blockquote>
+<h4 id="感悟"><a href="#感悟" class="headerlink" title="感悟"></a>感悟</h4><blockquote>
+<p>第一次参加<code>Hackathon</code>，体验还是很棒很新鲜的。其实和很多其他组的同学一样，我们平时也是老炼丹师了，左手深度学习右手强化学习，BERT套万物。不过在比赛开始前我们就讨论了下就感觉不应该做一个xxx+机器学习的项目，因为这不是<code>Kaggle</code>，我们对<code>Hackathon</code>的理解更倾向于”creative”，一定要Something new，something blingbling 会让你感叹到“诶这个idea还有点意思”。<code>Simple and Creative</code>，大概是我们想idea时更想把握的点。在工业界实习的时候或许也会有这样的感触，现实世界里我们要创造的是产品，pure algorithm只是其中很小的一部分，UI，交互，完成度，都会很严重地影响对一个项目的呈现结果。所以我们的项目其实很小，不复杂，简单前端，简单交互，简单功能，只要能实现最初的motivation，于我们而言，那就够了。比赛体验非常棒，感谢主办方的组织和物资发放，2020华东<code>Hackathon</code>是次很棒的体验，希望以后还有机会再参加<code>Hackathon</code>。</p>
+</blockquote>
+</blockquote>
 <h2 id="二等奖"><a href="#二等奖" class="headerlink" title="二等奖"></a>二等奖</h2><p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/img/image-20201129192818311.png" alt="image-20201129192818311"></p>
+<h3 id="三神带一坑队的获奖感言"><a href="#三神带一坑队的获奖感言" class="headerlink" title="三神带一坑队的获奖感言"></a><code>三神带一坑</code>队的获奖感言</h3><blockquote>
+<p>这学期课选的比较少，本着试试看的心态报名了比赛。临时组队，和舍友因为一个新闻产生的灵感，一个晚上的头脑风暴凑出的点子——做个游戏。<br>因为之前也没有做过相关的工程，所以从平台的选择到剧情设计都是队里四个人从0到1的贡献。因为对使用的工具没有了解（只是为单人开发准备的软件，没有模块化开发功能），所以在多人合作的工程中遇到了麻烦——用了大量时间来了解项目的生成原理，并且手动修改了每个模块相关的项目文件来实现多模块的合并。<br>从项目设计、实现和整合，到相关数据的调查和答辩的准备，两天的高强度连续作战让我们四个人疲惫又亢奋。<br>至于结束之后的感受，我觉得印象最深刻的就是多人合作过程中，灵感碰撞带来的快乐，认识了外校的学长，看到了很多其他队伍的精彩的想法，被大佬的作品折服。至于我自己，正如我们的队名——三神带一坑，希望明年还能找到三个大佬（呵呵呵）</p>
+</blockquote>
+<h3 id="需求与商业模式创新"><a href="#需求与商业模式创新" class="headerlink" title="需求与商业模式创新"></a>需求与商业模式创新</h3><blockquote>
+<p>连续24小时的爆肝真的很累，一天之内组到队，一开始吹着寒风在食堂门口讨论创意，晚上去网吧、海底捞写代码，白天借了教室写，总之确实付出了很多，对每个人的生物钟也是极大的考验。还好大家做出来了，答辩也还不错，最终拿到了二等奖，心里很感恩几天前突然决定一起hack的三个队友。</p>
+</blockquote>
 <h2 id="三等奖"><a href="#三等奖" class="headerlink" title="三等奖"></a>三等奖</h2><p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/img/image-20201129192904628.png" alt="image-20201129192904628"></p>
+<h3 id="Homework-is-stupid"><a href="#Homework-is-stupid" class="headerlink" title="Homework is stupid"></a>Homework is stupid</h3><blockquote>
+<p>我们的项目是一个可以进行口罩检测和语音对话的<a href="https://github.com/homework-is-stupid/No-touch-identification" target="_blank" rel="noopener">智能门禁系统</a>。</p>
+<h4 id="灵感"><a href="#灵感" class="headerlink" title="灵感"></a>灵感</h4><blockquote>
+<p>项目的灵感来源于其中一名队员的一个<code>star</code>，是<code>Github</code>上一个<a href="https://github.com/vdjango/MaskFace" target="_blank" rel="noopener">人脸口罩识别与检测的项目</a>, 大约在比赛开始前四天左右。感觉可以将它应用在后疫情时代防控疫情的门禁设施上，于是突然有了参加<code>Hackathon</code>的想法。</p>
+</blockquote>
+<h4 id="组队与分工"><a href="#组队与分工" class="headerlink" title="组队与分工"></a>组队与分工</h4><blockquote>
+<p>首先我对上面来自人工智能学院的汪福运发出邀请，并委托他负责我们项目的算法部分。我自己对前端部分比较熟悉，并且找到了一个合适的框架。考虑我们项目还缺少负责负责需求分析、测试场景分析以及展示部分的同学，我找到了软件学院的丁炳智。最后，由同样来自软件学院的顾龙同学负责前端与算法程序的接口部分以及部分页面的构建。</p>
+</blockquote>
+<h4 id="参加Hackathon的体验"><a href="#参加Hackathon的体验" class="headerlink" title="参加Hackathon的体验"></a>参加<code>Hackathon</code>的体验</h4><blockquote>
+<p>我们在比赛当天就已经完成了大部分的内容，前端框架已经搭好，UI设计与美化基本完成，口罩识别算法训练的效果也很令人满意，接口部分也已经写好，然后是展示的PPT与视频也在制作的过程中。所以我们在机房10点关门后就回到了各自的宿舍，没有选择通宵。充分休息后，第二天八点来到机房进行完善的工作。这个比赛时间确实很紧张，但是通宵可能会影响效率，以及队员的积极性。所以我们是这样选择的。</p>
+</blockquote>
+<h4 id="遇到的困难"><a href="#遇到的困难" class="headerlink" title="遇到的困难"></a>遇到的困难</h4><blockquote>
+<p>技术上的困难可能就是最终可执行程序的打包吧，由于<code>electron</code>和<code>pyInstaller</code>这两个东西打包出来的可执行程序体积都异常庞大，想着可能会影响用户体验，所以先前花了较长时间研究怎样打包。（虽然最终并没有成功解决。）</p>
+</blockquote>
+<h4 id="最后想说的"><a href="#最后想说的" class="headerlink" title="最后想说的"></a>最后想说的</h4><blockquote>
+<p>我们团队的每一个人都很棒，都很投入，并把自己能做的做到了最好。</p>
+<p>同时也十分感谢主办方，零食很好吃。</p>
+</blockquote>
+</blockquote>
+<h3 id="深夜食堂"><a href="#深夜食堂" class="headerlink" title="深夜食堂"></a>深夜食堂</h3><blockquote>
+<p>感谢微软的赞助和技术支持，感谢南大微俱的费心举办，感谢队友的倾力支持，大家辛苦了。</p>
+</blockquote>
+<h3 id="冯虚御风"><a href="#冯虚御风" class="headerlink" title="冯虚御风"></a>冯虚御风</h3><h4 id="颜昊明"><a href="#颜昊明" class="headerlink" title="颜昊明"></a>颜昊明</h4><blockquote>
+<p>​    首先，作为冯虚御风队的队长，我要感谢我的所有队友们，因为他们的努力我们小队才能最终获得这样的成绩。其次，感谢主办方为我们提供了这样一个可以交流技术、让我们发挥创造力的平台。</p>
+<p>​    还记得去年，作为一名对编程一无所知的大一新生，我参加了<code>Idea Hackathon</code>，也是在那一场比赛里我了解到了华东<code>Hackathon</code>。当时作为一名毫无技术力的菜鸟只能在<code>Idea Hackathon</code>比赛中用ppt展现想法的我很难想象，一年后的我也能在华东<code>Hackathon</code>中真正的用代码把构思变为现实。</p>
+<p>​    从把几小时里的一个构思变为ppt的<code>Idea Hackathon</code>，到组建团队，经过一个星期团队的不断讨论，与队友连续24小时不眠不休的奋战最终把创意落地的华东<code>Hackathon</code>。一方面，这让我真正地感受到“创造”的魅力，而代码正是我们最好的工具。另一方面，24小时内能做出什么的问题的答案，真的远远超出我参赛前的想象。也许正是在这样的环境下才最能激发人的创造力和潜能，这一切在没有开始之前你都不会察觉。</p>
+<p>​    最后，在比赛的过程中，我也看到其他很多优秀的团队。每支队伍都付出了最大的努力，虽然成绩只能是结果，但我觉得这次经历收获的友谊、技术等则在自己团队的记忆中无法磨灭。</p>
+</blockquote>
+<h4 id="李和煦"><a href="#李和煦" class="headerlink" title="李和煦"></a>李和煦</h4><blockquote>
+<p>非常开心能够拿到奖项，感谢这次比赛通过不间断高强度的写代码帮助我增强了对某些技术的理解和运用，积累了团队协作开发的经验，最后见识了大佬们的作品和创意(同时也欠了一堆作业没写)受益匪浅。</p>
+</blockquote>
+<h4 id="冯国豪"><a href="#冯国豪" class="headerlink" title="冯国豪"></a>冯国豪</h4><blockquote>
+<p>有朋友问我发生什么事了，我说前天有一帮年轻人，一伙熬夜熬了三十多个小时，一伙熬夜熬了二十多个小时，他们说要跟我试试，我说可以，喔这一试我就看出来了 他们是有备而来，我劝，这些年轻人耗子尾汁，继续发扬极客精神，程序员要以和为贵，用技术让世界变得更美好，谢谢朋友们!</p>
+</blockquote>
+<h4 id="唐家伦"><a href="#唐家伦" class="headerlink" title="唐家伦"></a>唐家伦</h4><blockquote>
+<p>很荣幸能在这次比赛中获得奖项，在这次比赛中，我意识到了自己在某些方面的不足，同时在与队友大佬的交流中也积累了对于项目开发的相关经验，最后，感谢队友们鼓励与支持，我会继续不断努力。</p>
+</blockquote>
+<h3 id="bilibili德川家康薛定谔保留"><a href="#bilibili德川家康薛定谔保留" class="headerlink" title="bilibili德川家康薛定谔保留"></a>bilibili德川家康薛定谔保留</h3><blockquote>
+<p>我们队的成员都是软院大二的学生，抱着体验比赛的目的组起了队伍。由于项目经验的不足，我们在比赛中遇到了各种大大小小的困难，有些通过CSDN大学等网络资源解决，也有些短时间内无法得到有效的应对方法，所以最后拿到奖项，我们十分惊喜和兴奋。我们也十分钦佩那些想法新颖，完成度高的小组的作品，也对本次<code>Hackathon</code>有难忘的体验。</p>
+</blockquote>
+<h3 id="年轻人你这样做不队"><a href="#年轻人你这样做不队" class="headerlink" title="年轻人你这样做不队"></a>年轻人你这样做不队</h3><blockquote>
+<p><code>Hackthon</code>给我带来的，不止名次和奖品，更多的是志同道合的伙伴和实现想法的平台。输入也要伴随着输出，这样才能走得更远。</p>
+</blockquote>
 <h2 id="照片彩蛋奖"><a href="#照片彩蛋奖" class="headerlink" title="照片彩蛋奖"></a>照片彩蛋奖</h2><p><img src= "/img/loading.gif" data-src="https://ydjsir-edu.oss-cn-shanghai.aliyuncs.com/hackathon2020/img/Hackathon1.jpg" alt=""></p>
-<p>以上图片来自 <code>啪的一下就报名了很快啊</code> 队。</p>
+<p>以上图片来自 <code>啪的一下就报名了很快啊</code> 队。他们的获奖感言如下：</p>
+<blockquote>
+<p>很荣幸获得了本次Hackathon的彩蛋奖，我们的项目是基于嵌入式平台的人脸检索，想要通过视觉的方法高效地确诊病例搜索和疑似病例推理。硬件平台有两个方案：树莓派+NCS2以及Jetson TX2。嵌入式设备采集人脸特征存储至服务器，然后根据算力的强弱进行边缘计算或中心服务器计算，进行确诊病例的活动轨迹绘制，并自动推理出一批接触式疑似病例，助力高效抗疫。</p>
+<p>不过队员们其实就是想把吃灰的硬件拿出来把玩一下，所以心态也比较佛系，比较粗糙地实现了上述功能。以后一定向各位大佬学习<code>README</code>和PPT的制作（</p>
+<p>这次<code>Hackathon</code>收获还是很多的，照片里面我们调通代码的喜悦是无法掩饰的，很高兴能够用相机记录下来这个难忘的夜晚。</p>
+<p>顺便打个广告，欢迎各位参加明年的南航<code>Hackathon</code>，线下的不一样的食堂和机房睡袋体验hhhs</p>
+</blockquote>
 <h3 id="具体名单"><a href="#具体名单" class="headerlink" title="具体名单"></a>具体名单</h3><table>
 <thead>
 <tr>
@@ -675,7 +744,7 @@ Crash --> [*]
 </tr>
 </tbody></table>
 <p>如果想查看所有参赛队伍的作品，请访问</p>
-<p><a href="https://statistic.hackathon2020eastchina.top/team" target="_blank" rel="noopener">https://statistic.hackathon2020eastchina.top/team</a></p>
+<p><a href="https://statistic.Hackathon2020eastchina.top/team" target="_blank" rel="noopener">https://statistic.Hackathon2020eastchina.top/team</a></p>
 <p>点击队伍详情，查看对应项目的GitHub开源地址。</p>
 <h2 id="友谊第一，比赛第二。"><a href="#友谊第一，比赛第二。" class="headerlink" title="友谊第一，比赛第二。"></a>友谊第一，比赛第二。</h2><p>所有参加本次比赛的选手，都在参赛的过程中完成了一次将脑中的想法变现的过程。这样的过程本身就是一次难得的体验和一次美好的回忆。</p>
 ]]></content>
